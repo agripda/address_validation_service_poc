@@ -1,9 +1,43 @@
 {
+    "KEY": "PK1011673_MISSING_ZERO|PSC_8",
+    "ORIGINAL ADDRESS": "49 Wooliana Road Daly River NT 822 Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "Wooliana Rd, Daly River NT 0822, Australia",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
+    "SIMILARITY RATIO": 93,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-13.6901307": 130.6656924
+    },
+    "SUGGESTED PLACE ID": "ChIJowjZdrGJviwR6-hMQKegvYI",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "2fbfeadb-8849-4545-84fb-58be7edce7de",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
     "KEY": "PK1011571_WRONG_COUNTRY|PSC_1",
     "ORIGINAL ADDRESS": " 243 Baylis St  Wagga Wagga NSW 2650 New Zealand",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 83,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -47,7 +81,7 @@
         "party_key",
         "product_system_code"
     ],
-    "GUID": "67053fb9-a003-4ebe-8eb1-78bdfb6a9f15",
+    "GUID": "8af70c9f-9a1b-46b6-9d4b-a944bfd77d02",
     "NAMESPACE": "infoperian.test.rla.com.au",
     "SOURCE SYSTEM": "infoperian",
     "SOURCE DATA": "data/infoperian_address_mockup.csv",
@@ -61,7 +95,7 @@
     "ORIGINAL ADDRESS": " 243 Baylis St Wagga Wagga NSW 2650 Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 99,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -105,7 +139,7 @@
         "party_key",
         "product_system_code"
     ],
-    "GUID": "2e8fe0da-daa1-4718-94f8-8d1bab51831f",
+    "GUID": "1ed7d557-71fa-4514-845e-f1b3bbc747fc",
     "NAMESPACE": "infoperian.test.rla.com.au",
     "SOURCE SYSTEM": "infoperian",
     "SOURCE DATA": "data/infoperian_address_mockup.csv",
@@ -119,7 +153,7 @@
     "ORIGINAL ADDRESS": " 243 Baylis St Wagga Wagga NSW 2650 Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 99,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -163,7 +197,7 @@
         "party_key",
         "product_system_code"
     ],
-    "GUID": "8a0f9d34-170b-45b1-8d6d-7a75e26ec2aa",
+    "GUID": "4682f31f-5c85-44bb-b31a-5a388e7a5015",
     "NAMESPACE": "infoperian.test.rla.com.au",
     "SOURCE SYSTEM": "infoperian",
     "SOURCE DATA": "data/infoperian_address_mockup.csv",
@@ -177,7 +211,7 @@
     "ORIGINAL ADDRESS": " 243 Baylis Road Wagga Wagga Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 80,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -221,7 +255,7 @@
         "party_key",
         "product_system_code"
     ],
-    "GUID": "e7895527-fc0a-4870-83d0-426acc388977",
+    "GUID": "8c97933e-78f8-4eec-8674-a7063424a9fc",
     "NAMESPACE": "infoperian.test.rla.com.au",
     "SOURCE SYSTEM": "infoperian",
     "SOURCE DATA": "data/infoperian_address_mockup.csv",
@@ -235,7 +269,7 @@
     "ORIGINAL ADDRESS": " 243 Baylis Road Wagga Wagga 2653 Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 85,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -279,7 +313,7 @@
         "party_key",
         "product_system_code"
     ],
-    "GUID": "743b82b7-4a5e-46c1-8f9c-638b3bdc969c",
+    "GUID": "6cbf257b-0724-415a-bc0d-a96eafd9df40",
     "NAMESPACE": "infoperian.test.rla.com.au",
     "SOURCE SYSTEM": "infoperian",
     "SOURCE DATA": "data/infoperian_address_mockup.csv",
@@ -293,7 +327,7 @@
     "ORIGINAL ADDRESS": " 243 Baylis Street 2650 Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 73,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -337,7 +371,7 @@
         "party_key",
         "product_system_code"
     ],
-    "GUID": "b99adfe8-0206-46c1-a949-ff32eff5d8b3",
+    "GUID": "afb8d68f-a350-4786-befb-76ca77c01913",
     "NAMESPACE": "infoperian.test.rla.com.au",
     "SOURCE SYSTEM": "infoperian",
     "SOURCE DATA": "data/infoperian_address_mockup.csv",
@@ -351,7 +385,7 @@
     "ORIGINAL ADDRESS": " UNIT 2 43 GOLDERS WAY     GIRRAWHEEN WA 6064 Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Unit 2/43 Golders Way, Girrawheen WA 6064, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 93,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -392,65 +426,7 @@
         "party_key",
         "product_system_code"
     ],
-    "GUID": "c265f815-dcad-47a3-8c92-540ddb64a252",
-    "NAMESPACE": "infoperian.test.rla.com.au",
-    "SOURCE SYSTEM": "infoperian",
-    "SOURCE DATA": "data/infoperian_address_mockup.csv",
-    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
-    "INSTANT MODE": "False",
-    "API SERVICE": "googlemaps",
-    "NOTE": "None"
-},
-{
-    "KEY": "PK1011673_MISSING_ZERO|PSC_8",
-    "ORIGINAL ADDRESS": "49 Wooliana Road Daly River NT 822 Australia",
-    "VALIDATION RESULT": "Valid",
-    "SUGGESTED ADDRESS": "Wooliana Rd, Daly River NT 0822, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
-    "SIMILARITY RATIO": 93,
-    "SIMILARITY LEVEL": "Identical",
-    "SUGGESTED COORDINATES": {
-        "-13.6901307": 130.6656924
-    },
-    "SUGGESTED PLACE ID": "ChIJowjZdrGJviwR6-hMQKegvYI",
-    "SUGGESTED DPID": "TBD",
-    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
-        "address_line_1": "Wooliana Rd, Daly River",
-        "address_line_2": "NT 0822, Australia"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_SF": {
-        "street": " street_number_na  Wooliana Road",
-        "suburb": "Daly River",
-        "city": "Victoria Daly Region",
-        "state": "Northern Territory",
-        "country": "Australia",
-        "post_code": "0822"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
-        "street number": "street_number_na",
-        "street": "Wooliana Road",
-        "suburb": "Daly River",
-        "state": "Northern Territory",
-        "country": "Australia",
-        "post_code": "0822"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
-        "line1": "street_number_na",
-        "line2": "Wooliana Road",
-        "suburb": "Daly River",
-        "state": "Northern Territory",
-        "country": "Australia",
-        "post_code": "0822"
-    },
-    "COLUMN NAME KEY": [
-        "PARTY_KEY",
-        "PRODUCT_SYSTEM_CODE"
-    ],
-    "COLUMN NAME VALUE": [
-        "party_key",
-        "product_system_code"
-    ],
-    "GUID": "6283f2c2-953c-4ace-a0ce-6c93acbda1ca",
+    "GUID": "dcd01b18-990d-4637-a6fd-ed21c79f8b6a",
     "NAMESPACE": "infoperian.test.rla.com.au",
     "SOURCE SYSTEM": "infoperian",
     "SOURCE DATA": "data/infoperian_address_mockup.csv",

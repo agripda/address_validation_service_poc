@@ -3,7 +3,7 @@
     "ORIGINAL ADDRESS": "315 Royal Melboe Ave, Sandringham VIC 3191, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Sandringham VIC 3191, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 74,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -21,7 +21,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "6afab7de-286d-4ced-b851-f4ca153ccf69",
+    "GUID": "54d8aea6-d25b-46ef-ab88-4497f4a51bab",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -35,7 +35,7 @@
     "ORIGINAL ADDRESS": "420 Springvale Rd, Chenham VIC 3192, Austrlia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "420 Springvale Rd, Springvale South VIC 3172, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 77,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -74,7 +74,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "98eb17f8-052f-46c3-8cd8-fa4b55ea3474",
+    "GUID": "461920fe-0732-48db-bcfb-222279ebc4ba",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -88,7 +88,7 @@
     "ORIGINAL ADDRESS": "800 Victoria Ave, Rosebery NXW 2039, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Rozelle NSW 2039, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 63,
     "SIMILARITY LEVEL": "Somewhat similar, with significant differences",
     "SUGGESTED COORDINATES": {
@@ -106,7 +106,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "234d7d69-fdfa-490d-9628-1a62ec5264ff",
+    "GUID": "a396bf0c-6c72-47d1-ad02-eee2b6532bf5",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -120,7 +120,7 @@
     "ORIGINAL ADDRESS": "129 Greenhills Rd, Huntingdale VIC 3162, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "129 Greenhills Rd, Pakenham VIC 3810, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 80,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -162,7 +162,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "710d776f-350d-4e45-8ee7-c77817675d6b",
+    "GUID": "85cb974b-5aa2-433b-8cce-c7b706486ba7",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -176,7 +176,7 @@
     "ORIGINAL ADDRESS": "222 King St, Kensington NSW 2093, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "King St, Manly Vale NSW 2093, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 72,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -184,41 +184,17 @@
     },
     "SUGGESTED PLACE ID": "ChIJ1z2Fj7SrEmsRNNfpWG3G4S0",
     "SUGGESTED DPID": "TBD",
-    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
-        "address_line_1": "King St, Manly Vale NSW",
-        "address_line_2": "2093, Australia"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_SF": {
-        "street": " street_number_na  King Street",
-        "suburb": "Manly Vale",
-        "city": "Northern Beaches Council",
-        "state": "New South Wales",
-        "country": "Australia",
-        "post_code": "2093"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
-        "street number": "street_number_na",
-        "street": "King Street",
-        "suburb": "Manly Vale",
-        "state": "New South Wales",
-        "country": "Australia",
-        "post_code": "2093"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
-        "line1": "street_number_na",
-        "line2": "King Street",
-        "suburb": "Manly Vale",
-        "state": "New South Wales",
-        "country": "Australia",
-        "post_code": "2093"
-    },
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
     "COLUMN NAME KEY": [
         "KEY"
     ],
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "fb74c1ae-6c92-4a73-9610-16dca32669ca",
+    "GUID": "408fe6ec-57f7-46bf-84b1-35b330afcd97",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -232,7 +208,7 @@
     "ORIGINAL ADDRESS": "Grange Rd, Grange SA 5022, Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "Grange Rd, Grange SA 5022, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 100,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -240,41 +216,17 @@
     },
     "SUGGESTED PLACE ID": "EiRHcmFuZ2UgUmQsIEdyYW5nZSBTQSA1MDIyLCBBdXN0cmFsaWEiLiosChQKEgkrbUcDyMWwahGZlsdxbtp0IRIUChIJTRzPpWvEsGoRULKOYlQ2AwU",
     "SUGGESTED DPID": "TBD",
-    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
-        "address_line_1": "Grange Rd, Grange SA",
-        "address_line_2": "5022, Australia"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_SF": {
-        "street": " street_number_na  Grange Road",
-        "suburb": "Grange",
-        "city": "City of Charles Sturt",
-        "state": "South Australia",
-        "country": "Australia",
-        "post_code": "5022"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
-        "street number": "street_number_na",
-        "street": "Grange Road",
-        "suburb": "Grange",
-        "state": "South Australia",
-        "country": "Australia",
-        "post_code": "5022"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
-        "line1": "street_number_na",
-        "line2": "Grange Road",
-        "suburb": "Grange",
-        "state": "South Australia",
-        "country": "Australia",
-        "post_code": "5022"
-    },
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
     "COLUMN NAME KEY": [
         "KEY"
     ],
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "d6831485-e7c3-49ed-a5c5-3f44e3d75d7a",
+    "GUID": "7bfddf52-1843-436f-8036-001482ba7a05",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -288,7 +240,7 @@
     "ORIGINAL ADDRESS": "1117 King St, Ascot QLD 4009, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Eagle Farm QLD 4009, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 67,
     "SIMILARITY LEVEL": "Somewhat similar, with significant differences",
     "SUGGESTED COORDINATES": {
@@ -306,7 +258,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "8f4c5b0a-eb63-4f7c-b7d1-edb7ad1217f5",
+    "GUID": "2c84aef0-aa0f-422e-aeee-e377a70d03ad",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -320,7 +272,7 @@
     "ORIGINAL ADDRESS": "165 Greenhill Rd, Glenelg SA 5045, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "165 Greenhill Rd, Adelaide SA 5000, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 82,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -362,7 +314,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "d6aa7d1a-99b5-44c4-b238-f8b2a8ec229f",
+    "GUID": "7ab558dd-00b0-4491-ab66-5742f31e026b",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -376,7 +328,7 @@
     "ORIGINAL ADDRESS": "220 The Grange Rd, The Grange SA 5022, New Zealand",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "New Zealand",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 37,
     "SIMILARITY LEVEL": "Different",
     "SUGGESTED COORDINATES": {
@@ -394,7 +346,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "e21abc94-78f8-46d3-9e3c-a90887327e7d",
+    "GUID": "6f41d5ab-3149-49ff-81e9-299599bf5e8b",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -408,7 +360,7 @@
     "ORIGINAL ADDRESS": "421 Lower Heidelberg Rd, Heidelberg Heights VIC 3081, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "421 Lower Heidelberg Rd, Eaglemont VIC 3084, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 81,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -447,7 +399,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "690e612b-9a26-4542-99ba-2132b402a460",
+    "GUID": "cd281473-cfd2-4f65-a697-2597a41e3826",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -461,7 +413,7 @@
     "ORIGINAL ADDRESS": "750 The Vines Dr, Eynesbury VIC 3139, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Eynesbury VIC 3338, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 71,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -479,7 +431,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "c99874f9-69cb-4ff1-bbd8-528759bbc68d",
+    "GUID": "9dce8057-7699-4574-b09f-6d6d65003c9c",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -493,7 +445,7 @@
     "ORIGINAL ADDRESS": "133 Victoria St, Albert Pork VIC 3206, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Middle Park VIC 3206, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 68,
     "SIMILARITY LEVEL": "Somewhat similar, with significant differences",
     "SUGGESTED COORDINATES": {
@@ -511,7 +463,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "916cee52-fecd-427a-838d-eb4da96ec7c5",
+    "GUID": "40da73e1-3253-4d4e-a338-577dc249fc50",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -525,7 +477,7 @@
     "ORIGINAL ADDRESS": "180 Comonwealth Ave, Malvern VIC 3144, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Malvern VIC 3144, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 72,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -543,7 +495,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "989c4735-5e96-48bc-93d0-63be9b29d6e6",
+    "GUID": "965903ee-4f8c-4311-8408-7936b68bb8ff",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -557,7 +509,7 @@
     "ORIGINAL ADDRESS": "137 Jacksons Rd, MorXXnington VIC 3931, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Mornington VIC 3931, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 76,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -575,7 +527,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "0ef8af92-3f7f-4fef-9f7e-08a47cb4f703",
+    "GUID": "88b8dcab-6a80-4dd8-b22d-eda05e8881a8",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -589,7 +541,7 @@
     "ORIGINAL ADDRESS": "112 Hotham Rd, Sorrento VIC 3934, Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "112 Hotham Rd, Sorrento VIC 3943, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 98,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -631,7 +583,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "c9277218-1bc8-46e4-83c4-8ede5d6ef8f0",
+    "GUID": "05ea7929-04f9-4d0f-a21f-7a87bc804bdc",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -645,7 +597,7 @@
     "ORIGINAL ADDRESS": "282 Nepean Hwy, DromaXna VIC 3901, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "282 Nepean Hwy, Dromana VIC 3936, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 94,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -687,7 +639,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "c202f007-be95-4ac3-bb2e-57a4fff534c4",
+    "GUID": "c15db30a-3ffb-45ea-8fdd-f9dea2547637",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -701,7 +653,7 @@
     "ORIGINAL ADDRESS": "259 Pacific Hwy, North Sydney NSW 2060, Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "259 Pacific Hwy, North Sydney NSW 2060, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 100,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -743,7 +695,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "a3dea803-652c-4390-9c61-51773abb0607",
+    "GUID": "8ec40f9a-efd1-485f-907e-e168b8bc908f",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -757,7 +709,7 @@
     "ORIGINAL ADDRESS": "40 Sanddy Bay Rd, Sandy Bay TAS 79005, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Sandy Bay TAS 7005, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 76,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -775,7 +727,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "cac69ead-c6c6-408c-aced-c8614c9c611f",
+    "GUID": "0b558794-4809-4c64-8370-f851f4ffce1b",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -789,7 +741,7 @@
     "ORIGINAL ADDRESS": "271 Carrington St, Fremantle WA 6160, Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "271 Carrington St, Beaconsfield WA 6162, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 84,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -831,7 +783,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "ec78f40d-341c-45dc-ae71-eeff059f4cf1",
+    "GUID": "69047f03-1ce9-4eba-bf76-5cfd434fc508",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -845,7 +797,7 @@
     "ORIGINAL ADDRESS": "44 Burt St, Victoria Park WA 6100, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "44 Burt St, North Perth WA 6006, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 80,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -887,7 +839,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "6775d1d2-9e71-4a1f-8563-41fc9d7f33d0",
+    "GUID": "c26c02db-6855-405d-9801-143474cab3c5",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -901,7 +853,7 @@
     "ORIGINAL ADDRESS": "30 GuildXXerton Rd, Joondalup WA 6027, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Joondalup WA 6027, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 74,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -919,7 +871,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "424f94cd-a90e-402e-ab1a-8da4be007797",
+    "GUID": "92c75cf7-3ef3-4c4d-95f6-d44180be33f1",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -933,7 +885,7 @@
     "ORIGINAL ADDRESS": "400 Karrinyup Rd, Karrinyup WA 6018, Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "400 Karrinyup Rd, Gwelup WA 6018, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 87,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -975,7 +927,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "808bf7de-a944-4157-8998-11a078213226",
+    "GUID": "d77fb565-545a-43a2-b37d-0ce7acc1e057",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -989,7 +941,7 @@
     "ORIGINAL ADDRESS": "115 Cape Schanck Rd, Cape Schanck VIC 3926, Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "115 Cape Schanck Rd, Cape Schanck VIC 3939, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 96,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -1028,7 +980,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "b2320b26-529c-49c3-a1cb-b43c289300ed",
+    "GUID": "573e1560-1827-4f18-b856-ec62e4866221",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1042,7 +994,7 @@
     "ORIGINAL ADDRESS": "130 Cape Schanck Rd, Cape Schanck TAZ 3926, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "130 Cape Schanck Rd, Cape Schanck VIC 3939, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 90,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -1081,7 +1033,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "25b3c2f1-caec-491c-91fe-03a9b6b7b953",
+    "GUID": "99b23610-8fee-4b3e-9628-09dbf5a0d374",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1095,7 +1047,7 @@
     "ORIGINAL ADDRESS": "270 St Andrews Beach Rd, St Andrews Beach VIC 3926, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "St Andrews Beach VIC 3941, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 70,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -1113,7 +1065,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "ed73007e-20f1-46b5-bd70-0748bdc6a451",
+    "GUID": "23d2a571-52d6-4050-a46a-fb2efce53469",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1127,7 +1079,7 @@
     "ORIGINAL ADDRESS": "557 Purves Rd, Rye VIC 3941, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "557 Purves Rd, Main Ridge VIC 3928, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 84,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -1169,7 +1121,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "db4c4862-cbef-44fe-a08d-e3d61c0e4212",
+    "GUID": "19af8033-42c8-4712-aebd-3cc048622177",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1183,7 +1135,7 @@
     "ORIGINAL ADDRESS": "100 Cape Wickham Rd, Flinders Island TAS 7255, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Flinders Island, Tasmania, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 66,
     "SIMILARITY LEVEL": "Somewhat similar, with significant differences",
     "SUGGESTED COORDINATES": {
@@ -1201,7 +1153,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "b053d2d2-ce30-44d3-9061-d8468eb14818",
+    "GUID": "9b66cb00-e4be-4b5b-b6b0-b13423866554",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1215,7 +1167,7 @@
     "ORIGINAL ADDRESS": "118 Adams Rd, King Island TAS 7256, Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "118 Adams Rd, Loorana TAS 7256, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 85,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -1257,7 +1209,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "0269c14e-1604-4515-bf77-1ea128bd1e31",
+    "GUID": "c5f7f9a9-0edd-4364-a052-c8a46586c3bf",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1271,7 +1223,7 @@
     "ORIGINAL ADDRESS": "154 Flinders Island Rd, King Island NSW 7256, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "New South Wales, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 44,
     "SIMILARITY LEVEL": "Different",
     "SUGGESTED COORDINATES": {
@@ -1289,7 +1241,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "1261365a-a0bb-4b87-be00-b10bcdd60062",
+    "GUID": "31af01fc-3bf3-4b53-a6ce-08c0ff5ea201",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1303,7 +1255,7 @@
     "ORIGINAL ADDRESS": "55 The Nack, Bridport TAS 7282, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Bridport TAS 7262, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 79,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -1321,7 +1273,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "5268e07f-1c0b-4a5d-ac60-41baeb60dd0b",
+    "GUID": "db28ae3d-995d-40cd-94a8-6c0e9a858236",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1335,7 +1287,7 @@
     "ORIGINAL ADDRESS": "100 Tasman Hwy, New Norfolk TAS 7170, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "100 Tasman Hwy, Sorell TAS 7172, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 85,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -1377,7 +1329,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "4abf3b52-a269-46d7-be09-c25194f3b390",
+    "GUID": "faa49a60-7652-4171-a0a6-ee73c3603562",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1391,7 +1343,7 @@
     "ORIGINAL ADDRESS": "40 Sandy Bay Rd, Sandy Bay TAS 7005, Australia",
     "VALIDATION RESULT": "Valid",
     "SUGGESTED ADDRESS": "40 Sandy Bay Rd, Battery Point TAS 7004, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 80,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -1433,7 +1385,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "72c84b55-4878-411b-8115-e3baa6bcec98",
+    "GUID": "e3b412d7-90ce-4679-9866-f1ac88fe6ff2",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1447,7 +1399,7 @@
     "ORIGINAL ADDRESS": "108 Tasman Hwy, New Norfolk TAS 7170, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "108 Tasman Hwy, Sorell TAS 7172, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 85,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -1489,7 +1441,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "b1b30c71-dcd2-41db-b7a7-1f41ecaaab1c",
+    "GUID": "00cee8eb-891b-484e-b943-cdad55f7b2b9",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1503,7 +1455,7 @@
     "ORIGINAL ADDRESS": "100 Paterson St, Launceston TASS 7250, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "100 Paterson St, Launceston TAS 7250, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 99,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -1545,7 +1497,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "005c6c75-ede2-4631-abdc-1545bb7d864a",
+    "GUID": "55c84ce7-22ef-4170-bcfe-a4f9e53acac7",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1559,7 +1511,7 @@
     "ORIGINAL ADDRESS": "80 Thewent St, New Town TAS 7008, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "New Town TAS 7008, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 79,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -1577,7 +1529,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "d2e2ecc2-121b-4e56-a374-b681e8245927",
+    "GUID": "162c31f4-6e5f-427a-b220-64f6f40205e5",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1591,7 +1543,7 @@
     "ORIGINAL ADDRESS": "220 The Grange Rd, The Grange SA 5022, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "220 Grange Rd, Flinders Park SA 5025, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 75,
     "SIMILARITY LEVEL": "Similar, with some differences",
     "SUGGESTED COORDINATES": {
@@ -1633,7 +1585,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "c50ea424-ba4a-4395-bc7e-5b66235ea0c4",
+    "GUID": "ea82c2af-1a79-4b8d-8b50-9e7780d6517d",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1647,7 +1599,7 @@
     "ORIGINAL ADDRESS": "Grange Rd, Grange SAt 5022, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Grange Rd, Grange SA 5022, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 99,
     "SIMILARITY LEVEL": "Identical",
     "SUGGESTED COORDINATES": {
@@ -1655,41 +1607,17 @@
     },
     "SUGGESTED PLACE ID": "EiRHcmFuZ2UgUmQsIEdyYW5nZSBTQSA1MDIyLCBBdXN0cmFsaWEiLiosChQKEgkrbUcDyMWwahGZlsdxbtp0IRIUChIJTRzPpWvEsGoRULKOYlQ2AwU",
     "SUGGESTED DPID": "TBD",
-    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
-        "address_line_1": "Grange Rd, Grange SA",
-        "address_line_2": "5022, Australia"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_SF": {
-        "street": " street_number_na  Grange Road",
-        "suburb": "Grange",
-        "city": "City of Charles Sturt",
-        "state": "South Australia",
-        "country": "Australia",
-        "post_code": "5022"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
-        "street number": "street_number_na",
-        "street": "Grange Road",
-        "suburb": "Grange",
-        "state": "South Australia",
-        "country": "Australia",
-        "post_code": "5022"
-    },
-    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
-        "line1": "street_number_na",
-        "line2": "Grange Road",
-        "suburb": "Grange",
-        "state": "South Australia",
-        "country": "Australia",
-        "post_code": "5022"
-    },
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
     "COLUMN NAME KEY": [
         "KEY"
     ],
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "84c6729b-9928-423a-8e61-ec61e99caf0f",
+    "GUID": "22b34e61-a986-4da1-a480-67af91473ed4",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1703,7 +1631,7 @@
     "ORIGINAL ADDRESS": "165 Greenthill Rd, Glenelg SA 5065, Australia",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "165 Greenhill Rd, Adelaide SA 5000, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "False",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "True",
     "SIMILARITY RATIO": 81,
     "SIMILARITY LEVEL": "Very similar, with only minor differences",
     "SUGGESTED COORDINATES": {
@@ -1745,7 +1673,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "3b206fdc-ca16-491e-81e4-6277bc8b1a03",
+    "GUID": "7e560c00-3b0e-4fe9-a833-5143c56fa2a1",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
@@ -1759,7 +1687,7 @@
     "ORIGINAL ADDRESS": "123 Glexnelg Beach Rd, Glenel",
     "VALIDATION RESULT": "Invalid",
     "SUGGESTED ADDRESS": "Glenelg SA 5045, Australia",
-    "INVALID STREET NUMBER/ADDRESS": "True",
+    "VALID UNIT/STREET NUMBER AND ADDRESS": "False",
     "SIMILARITY RATIO": 45,
     "SIMILARITY LEVEL": "Different",
     "SUGGESTED COORDINATES": {
@@ -1777,7 +1705,7 @@
     "COLUMN NAME VALUE": [
         "key"
     ],
-    "GUID": "b027acc0-5c18-4554-8dc7-ca7f95174ff7",
+    "GUID": "66457c82-4436-40a1-9eb3-6950ba07ad8e",
     "NAMESPACE": "myserver.address.sample.golf",
     "SOURCE SYSTEM": "pas",
     "SOURCE DATA": "data/golf_cc_address.csv",
