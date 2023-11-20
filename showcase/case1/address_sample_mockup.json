@@ -1,0 +1,86 @@
+{
+  "name": "bdax_address_sample",
+  "namespace": "mdw",
+  "type": "record",
+  "version": "1.20",
+  "schema": [
+    {
+      "index": 1,
+      "key": "ID",
+      "value": "id",
+      "address_attribute": "no"
+    },
+    {
+      "index": 1,
+      "key": "ADDRESSEE",
+      "value": "addressee",
+      "address_attribute": "no"
+    },
+    {
+      "index": 2,
+      "key": "ADDR_LINE_1",
+      "value": "addr_line_1",
+      "address_attribute": "yes"
+    },
+    {
+      "index": 3,
+      "key": "ADDR_LINE_2",
+      "value": "addr_line_2",
+      "address_attribute": "yes"
+    },
+    {
+      "index": 4,
+      "key": "ADDR_LINE_3",
+      "value": "addr_line_3",
+      "address_attribute": "yes"
+    },
+    {
+      "index": 5,
+      "key": "ADDR_LINE_4",
+      "value": "addr_line_4",
+      "address_attribute": "yes"
+    },
+    {
+      "index": 6,
+      "key": "ADDR_LINE_5",
+      "value": "addr_line_5",
+      "address_attribute": "yes"
+    },
+    {
+      "index": 7,
+      "key": "ADDR_LINE_6",
+      "value": "addr_line_6",
+      "address_attribute": "yes"
+    },
+    {
+      "index": 8,
+      "key": "SUBURB",
+      "value": "suburb",
+      "address_attribute": "yes"
+    },
+    {
+      "index": 9,
+      "key": "CITY",
+      "value": "city",
+      "address_attribute": "yes"
+    },
+      {
+      "index": 10,
+      "key": "STATE_CODE",
+      "value": "state_code",
+        "address_attribute": "yes"
+    },
+      {
+      "index": 11,
+      "key": "POST_CODE",
+      "value": "post_code",
+        "address_attribute": "yes"
+    },
+    {
+      "index": 12,
+      "key": "COUNTRY_CODE",
+      "value": "country_code",
+      "address_attribute": "yes"
+    }
+  ]
+}

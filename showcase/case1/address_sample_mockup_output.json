@@ -1,0 +1,2103 @@
+{
+    "KEY": "CID3336916",
+    "ORIGINAL ADDRESS": "78a Bangalow Road BYRON BAY NSW 2481 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "74-78 Bangalow Rd, Byron Bay NSW 2481, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 93,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-28.65775439999999": 153.6157582
+    },
+    "SUGGESTED PLACE ID": "ChIJESA1Y0VikGsRPA6nb7ztRjI",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "74-78 Bangalow Rd, Byron ",
+        "address_line_2": "Bay N"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 74-78  Bangalow Road",
+        "suburb": "Byron Bay",
+        "city": "Byron Shire",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2481"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "74-78",
+        "street": "Bangalow Road",
+        "suburb": "Byron Bay",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2481"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "74-78",
+        "line2": "Bangalow Road",
+        "suburb": "Byron Bay",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2481"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "adc03427-af40-43e6-a81a-37d7aeb2c23f",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID3336917",
+    "ORIGINAL ADDRESS": "78b Bangalow Road BYRON BAY NSW 2481 New Zealand",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "74-78 Bangalow Rd, Byron Bay NSW 2481, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 79,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-28.65775439999999": 153.6157582
+    },
+    "SUGGESTED PLACE ID": "ChIJESA1Y0VikGsRPA6nb7ztRjI",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "74-78 Bangalow Rd, Byron ",
+        "address_line_2": "Bay N"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 74-78  Bangalow Road",
+        "suburb": "Byron Bay",
+        "city": "Byron Shire",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2481"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "74-78",
+        "street": "Bangalow Road",
+        "suburb": "Byron Bay",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2481"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "74-78",
+        "line2": "Bangalow Road",
+        "suburb": "Byron Bay",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2481"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "43837d89-53b1-496a-8392-3aa6b32268a3",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID6778252",
+    "ORIGINAL ADDRESS": "116 Greville Street CHATSWOOD NSW 2067 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "116 Greville St, Chatswood NSW 2067, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 96,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.7955714": 151.1686772
+    },
+    "SUGGESTED PLACE ID": "ChIJj3ePaMuoEmsRB7uWNZjaOyA",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "116 Greville St,",
+        "address_line_2": "Chatswood NSW 2067, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 116  Greville Street",
+        "suburb": "Chatswood",
+        "city": "City of Willoughby",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2067"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "116",
+        "street": "Greville Street",
+        "suburb": "Chatswood",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2067"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "116",
+        "line2": "Greville Street",
+        "suburb": "Chatswood",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2067"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "0cf92f6a-cd0f-4f01-a341-4d488fa18d2c",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID4258729",
+    "ORIGINAL ADDRESS": "24 Atkins Way Eden Hill WA 6054 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "24 Atkins Way, Eden Hill WA 6054, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-31.8912354": 115.9427808
+    },
+    "SUGGESTED PLACE ID": "ChIJnYYvvKuwMioRAhH2Squt9Ng",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "24 Atkins Way, Eden Hill ",
+        "address_line_2": "WA 60"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 24  Atkins Way",
+        "suburb": "Eden Hill",
+        "city": "Town of Bassendean",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6054"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "24",
+        "street": "Atkins Way",
+        "suburb": "Eden Hill",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6054"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "24",
+        "line2": "Atkins Way",
+        "suburb": "Eden Hill",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6054"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "f2336960-4773-475f-8479-fe63c4682d8b",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID4676436",
+    "ORIGINAL ADDRESS": "C/O Po Office Wilcania WILCANNIA NSW 2836 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Wilcannia NSW 2836, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 71,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-31.5589892": 143.378448
+    },
+    "SUGGESTED PLACE ID": "ChIJA5USFm0E-2oRQAFEkLQJBgQ",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "56d323a6-9119-4c80-8580-08e3c06edce9",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID4839817",
+    "ORIGINAL ADDRESS": "33/31 Langport Parade Mudgeeraba QLD 4213 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "33/31 Langport Parade, Mudgeeraba QLD 4213, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-28.0902265": 153.3865162
+    },
+    "SUGGESTED PLACE ID": "ChIJ_xcC280ckWsRufTc4ipvN64",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [53] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "33 31  Langport Parade",
+        "suburb": "Mudgeeraba",
+        "city": "City of Gold Coast",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4213"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "31",
+        "street": "Langport Parade",
+        "suburb": "Mudgeeraba",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4213"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "31",
+        "line2": "Langport Parade",
+        "suburb": "Mudgeeraba",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4213"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "097325e2-7901-4f85-b35d-f483f0f86533",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID2492780",
+    "ORIGINAL ADDRESS": "76 Old Street ASHFIELD NSW 2131 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Ashfield NSW 2131, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 79,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-33.8904917": 151.1254852
+    },
+    "SUGGESTED PLACE ID": "ChIJV0VtxZe6EmsREIu6P2t9ARw",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "085b0e48-98e8-4e0e-8bd1-6fdb1c787bfa",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID6591322",
+    "ORIGINAL ADDRESS": "277 Noble Avenue Greenacre NSW 2190 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "277 Noble Ave, Greenacre NSW 2190, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 97,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.8967764": 151.0546637
+    },
+    "SUGGESTED PLACE ID": "ChIJDXWMa4S7EmsRcp8cEdU4hIQ",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "277 Noble Ave, Greenacre ",
+        "address_line_2": "NSW 2"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 277  Noble Avenue",
+        "suburb": "Greenacre",
+        "city": "City of Canterbury-Bankstown",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2190"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "277",
+        "street": "Noble Avenue",
+        "suburb": "Greenacre",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2190"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "277",
+        "line2": "Noble Avenue",
+        "suburb": "Greenacre",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2190"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "45221222-d223-484b-9d11-cb78cb2bbd7b",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID2749008",
+    "ORIGINAL ADDRESS": "9 Wills St NANANGO QLD 4615 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "9 Wills St W, Nanango QLD 4615, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 97,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-26.6770303": 151.9963904
+    },
+    "SUGGESTED PLACE ID": "ChIJ000adDGylWsRoiG3ILszLDU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "9 Wills St W, Nanango QLD",
+        "address_line_2": "4615, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 9  Wills Street West",
+        "suburb": "Nanango",
+        "city": "South Burnett Regional",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4615"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "9",
+        "street": "Wills Street West",
+        "suburb": "Nanango",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4615"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "9",
+        "line2": "Wills Street West",
+        "suburb": "Nanango",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4615"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "5d7da6b9-c3e3-4c68-9258-319050cf06ee",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID3239901",
+    "ORIGINAL ADDRESS": "8/25 Sutherland Street Paddington NSW 2021 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "Unit 8/25 Sutherland St, Paddington NSW 2021, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 91,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.8827396": 151.2327652
+    },
+    "SUGGESTED PLACE ID": "ChIJzc8dMgiuEmsRJXqMRh4ampQ",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [55] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "Unit 8 25  Sutherland Street",
+        "suburb": "Paddington",
+        "city": "Woollahra Municipality",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2021"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "25",
+        "street": "Sutherland Street",
+        "suburb": "Paddington",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2021"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "25",
+        "line2": "Sutherland Street",
+        "suburb": "Paddington",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2021"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "43c7ff1e-bed7-4bab-992b-e16e55586d7a",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID6993124",
+    "ORIGINAL ADDRESS": "28 Merriton Ave ST MARYS SA 5042 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "28 Merriton Ave, Saint Marys SA 5042, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 97,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-35.0007578": 138.5800637
+    },
+    "SUGGESTED PLACE ID": "ChIJZyusCkDQsGoRbU1gfXU_bhc",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "28 Merriton Ave, Saint",
+        "address_line_2": "Marys SA 5042, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 28  Merriton Avenue",
+        "suburb": "Saint Marys",
+        "city": "City of Mitcham",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5042"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "28",
+        "street": "Merriton Avenue",
+        "suburb": "Saint Marys",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5042"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "28",
+        "line2": "Merriton Avenue",
+        "suburb": "Saint Marys",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5042"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "3f2af68e-fa9d-4582-a7ce-11bf6c331aa0",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID3861731",
+    "ORIGINAL ADDRESS": "5 Hawkesworth Pl Cherrybrook NSW 2126 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "5 Hawkesworth Pl, Cherrybrook NSW 2126, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.7163366": 151.052852
+    },
+    "SUGGESTED PLACE ID": "ChIJ86yT_y2nEmsR5PSE7UbH5Mw",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "5 Hawkesworth Pl,",
+        "address_line_2": "Cherrybrook NSW 2126, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 5  Hawkesworth Place",
+        "suburb": "Cherrybrook",
+        "city": "Hornsby Shire",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2126"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "5",
+        "street": "Hawkesworth Place",
+        "suburb": "Cherrybrook",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2126"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "5",
+        "line2": "Hawkesworth Place",
+        "suburb": "Cherrybrook",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2126"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "0c884632-6109-4216-9ccc-26bc2afaa7bc",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID5094717",
+    "ORIGINAL ADDRESS": "Greenhills  Caravan Park MURWILLUMBAH NSW 2484 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "Greenhill Caravan Park, 488 Tweed Valley Way, South Murwillumbah NSW 2484, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 79,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-28.3437863": 153.4015775
+    },
+    "SUGGESTED PLACE ID": "ChIJNR5LDBjwkGsRd-jwW5DvHSY",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [84] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 488  Tweed Valley Way",
+        "suburb": "South Murwillumbah",
+        "city": "Tweed Shire Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2484"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "488",
+        "street": "Tweed Valley Way",
+        "suburb": "South Murwillumbah",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2484"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "488",
+        "line2": "Tweed Valley Way",
+        "suburb": "South Murwillumbah",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2484"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "ec323de3-ca36-446b-8a29-c8c9bab0775c",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID3338515",
+    "ORIGINAL ADDRESS": "2 Menzies Ct TROTT PARK SA 5158 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "2 Menzies Ct, Trott Park SA 5158, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-35.0793088": 138.5385369
+    },
+    "SUGGESTED PLACE ID": "ChIJsZh1AUrYsGoRJ9_o4aYbdk0",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "2 Menzies Ct, Trott Park ",
+        "address_line_2": "SA 51"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 2  Menzies Court",
+        "suburb": "Trott Park",
+        "city": "City of Marion",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5158"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "2",
+        "street": "Menzies Court",
+        "suburb": "Trott Park",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5158"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "2",
+        "line2": "Menzies Court",
+        "suburb": "Trott Park",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5158"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "dbb40df8-f925-45d8-a02b-6f808ab8d1d4",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID1846960",
+    "ORIGINAL ADDRESS": "U 1 30 Brittain Cres HILLSDALE NSW 2036 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Unit 1/30 Brittain Cres, Hillsdale NSW 2036, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 95,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.9535007": 151.22794
+    },
+    "SUGGESTED PLACE ID": "ChIJdz-ZzWCxEmsRbwqUVBxzFQk",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [54] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "Unit 1 30  Brittain Crescent",
+        "suburb": "Hillsdale",
+        "city": "Bayside Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2036"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "30",
+        "street": "Brittain Crescent",
+        "suburb": "Hillsdale",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2036"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "30",
+        "line2": "Brittain Crescent",
+        "suburb": "Hillsdale",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2036"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "c15bf5b4-b7cc-4052-bfe0-7ba6dd6c33db",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID6272480",
+    "ORIGINAL ADDRESS": "1 Patrick Vsta PARMELIA WA 6167 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "1 Patrick Vista, Parmelia WA 6167, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 99,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-32.2533424": 115.8189255
+    },
+    "SUGGESTED PLACE ID": "ChIJNcXhUc6aMioR0ixQidTpZ18",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "1 Patrick Vista, Parmelia",
+        "address_line_2": "WA 6167, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 1  Patrick Vista",
+        "suburb": "Parmelia",
+        "city": "City of Kwinana",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6167"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "1",
+        "street": "Patrick Vista",
+        "suburb": "Parmelia",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6167"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "1",
+        "line2": "Patrick Vista",
+        "suburb": "Parmelia",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6167"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "d7fcc92a-dfe7-4367-8151-1fdf6bfc2fcf",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID5490554",
+    "ORIGINAL ADDRESS": "98 Hawthorn Grove MILDURA VIC 3500 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "98 Hawthorn Grove, Mildura VIC 3500, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-34.1979085": 142.1545521
+    },
+    "SUGGESTED PLACE ID": "ChIJddf90n0Dw2oRG8TPXuxYdsE",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "98 Hawthorn Grove,",
+        "address_line_2": "Mildura VIC 3500, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 98  Hawthorn Grove",
+        "suburb": "Mildura",
+        "city": "Mildura Rural City",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3500"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "98",
+        "street": "Hawthorn Grove",
+        "suburb": "Mildura",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3500"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "98",
+        "line2": "Hawthorn Grove",
+        "suburb": "Mildura",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3500"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "191a8367-c8c0-4584-8426-8777e0acd5fb",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID8645583",
+    "ORIGINAL ADDRESS": "11/45 Doombon EASTWOOD NSW 2122 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Unit 11/45 Doomben Ave, Eastwood NSW 2122, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 88,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-33.7871929": 151.0835244
+    },
+    "SUGGESTED PLACE ID": "ChIJpS8CQjCkEmsRFKtCcaHTM94",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [52] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "Unit 11 45  Doomben Avenue",
+        "suburb": "Eastwood",
+        "city": "City of Ryde",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2122"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "45",
+        "street": "Doomben Avenue",
+        "suburb": "Eastwood",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2122"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "45",
+        "line2": "Doomben Avenue",
+        "suburb": "Eastwood",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2122"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "9760ac4f-e4a6-4602-8a19-089f4107b0b2",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID1225367",
+    "ORIGINAL ADDRESS": "1/87 Lawrence St ALEXANDRIA NSW 2016 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "Unit 1/87 Lawrence St, Alexandria NSW 2015, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 93,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.9033096": 151.1929311
+    },
+    "SUGGESTED PLACE ID": "ChIJD-Aqh8mxEmsRFb_XLZLW24g",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [53] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "Unit 1 87  Lawrence Street",
+        "suburb": "Alexandria",
+        "city": "City of Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2015"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "87",
+        "street": "Lawrence Street",
+        "suburb": "Alexandria",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2015"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "87",
+        "line2": "Lawrence Street",
+        "suburb": "Alexandria",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2015"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "9403e79c-9154-4a9d-a271-f19e6cffe5c0",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID8865998",
+    "ORIGINAL ADDRESS": "585B Princess H'Way JASPERS BRUSH NSW 2535 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "585B Princes Hwy, Jaspers Brush NSW 2535, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 97,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-34.8101533": 150.641324
+    },
+    "SUGGESTED PLACE ID": "ChIJRaATQcV-E2sRcSA5shCWS8E",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [51] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 585B  Princes Highway",
+        "suburb": "Jaspers Brush",
+        "city": "City of Shoalhaven",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2535"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "585B",
+        "street": "Princes Highway",
+        "suburb": "Jaspers Brush",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2535"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "585B",
+        "line2": "Princes Highway",
+        "suburb": "Jaspers Brush",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2535"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "0e7346c2-8bf8-4c69-b620-2e46b4e8789e",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID3837174",
+    "ORIGINAL ADDRESS": "28 Finchley Crescent BALGA WA 6061 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "28 Finchley Cres, Balga WA 6061, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 95,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-31.8548011": 115.8500754
+    },
+    "SUGGESTED PLACE ID": "ChIJYbOg-iCuMioR0BvGQyWIVxs",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "28 Finchley Cres, Balga",
+        "address_line_2": "WA 6061, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 28  Finchley Crescent",
+        "suburb": "Balga",
+        "city": "City of Stirling",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6061"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "28",
+        "street": "Finchley Crescent",
+        "suburb": "Balga",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6061"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "28",
+        "line2": "Finchley Crescent",
+        "suburb": "Balga",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6061"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "1d84daec-20cf-40e1-a3e1-7815986301c6",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID5702969",
+    "ORIGINAL ADDRESS": "U 4 177  West Coast Hwy SCARBOROUGH WA 6019 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "U 4/177 W Coast Hwy, Scarborough WA 6019, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 94,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-31.8894955": 115.7573897
+    },
+    "SUGGESTED PLACE ID": "EjNVIDQvMTc3IFcgQ29hc3QgSHd5LCBTY2FyYm9yb3VnaCBXQSA2MDE5LCBBdXN0cmFsaWEiHxodChYKFAoSCfW5lzIrqTIqEQO987WZlqtVEgNVIDQ",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [51] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "U 4 177  West Coast Highway",
+        "suburb": "Scarborough",
+        "city": "City of Stirling",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6019"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "177",
+        "street": "West Coast Highway",
+        "suburb": "Scarborough",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6019"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "177",
+        "line2": "West Coast Highway",
+        "suburb": "Scarborough",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6019"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "09b43fe9-95a6-4125-b9e6-cd0fffe23108",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID3574916",
+    "ORIGINAL ADDRESS": "15 Francis Rd ROOTY HILL NSW 2766 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "15 Francis Rd, Rooty Hill NSW 2766, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.7745253": 150.838608
+    },
+    "SUGGESTED PLACE ID": "ChIJSWUtWxWaEmsR0ZGD44zUS2s",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "15 Francis Rd, Rooty Hill",
+        "address_line_2": "NSW 2766, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 15  Francis Road",
+        "suburb": "Rooty Hill",
+        "city": "City of Blacktown",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2766"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "15",
+        "street": "Francis Road",
+        "suburb": "Rooty Hill",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2766"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "15",
+        "line2": "Francis Road",
+        "suburb": "Rooty Hill",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2766"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "3b9bfee6-028d-4d90-b5cd-c29fb4715a27",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID4133671",
+    "ORIGINAL ADDRESS": "1769 Bussell Hwy COWARAMUP WA 6284 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "1769 Bussell Hwy, Stratham WA 6237, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 83,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-33.483879": 115.5856593
+    },
+    "SUGGESTED PLACE ID": "Ei0xNzY5IEJ1c3NlbGwgSHd5LCBTdHJhdGhhbSBXQSA2MjM3LCBBdXN0cmFsaWEiMRIvChQKEgmbcSLSXB8uKhHYCnPE-ylyRhDpDSoUChIJBxbCsby2LyoRHqMY2Vj0k34",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "1769 Bussell Hwy,",
+        "address_line_2": "Stratham WA 6237, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 1769  Bussell Highway",
+        "suburb": "Stratham",
+        "city": "Shire of Capel",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6237"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "1769",
+        "street": "Bussell Highway",
+        "suburb": "Stratham",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6237"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "1769",
+        "line2": "Bussell Highway",
+        "suburb": "Stratham",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6237"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "62fab361-3be6-47e7-97b2-6152086e3243",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID5848996",
+    "ORIGINAL ADDRESS": "19 Bumbera St PRESTONS NSW 2170 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "19 Bumbera St, Prestons NSW 2170, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.9480712": 150.8545132
+    },
+    "SUGGESTED PLACE ID": "ChIJBehu21uTEmsR6FN4Pj7M4yM",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "19 Bumbera St, Prestons",
+        "address_line_2": "NSW 2170, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 19  Bumbera Street",
+        "suburb": "Prestons",
+        "city": "City of Liverpool",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2170"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "19",
+        "street": "Bumbera Street",
+        "suburb": "Prestons",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2170"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "19",
+        "line2": "Bumbera Street",
+        "suburb": "Prestons",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2170"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "3bc6d475-f8d6-4535-8286-743328c0a926",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID4529376",
+    "ORIGINAL ADDRESS": "1482 Shute  Harbour  Road CANNON VALLEY QLD 4800 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "1482 Shute Harbour Rd, Cannon Valley QLD 4800, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 96,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-20.3118332": 148.6578322
+    },
+    "SUGGESTED PLACE ID": "ChIJubBWSJ3L2WsRONyDVjkt4-8",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [56] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 1482  Shute Harbour Road",
+        "suburb": "Cannon Valley",
+        "city": "Whitsunday Regional",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4800"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "1482",
+        "street": "Shute Harbour Road",
+        "suburb": "Cannon Valley",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4800"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "1482",
+        "line2": "Shute Harbour Road",
+        "suburb": "Cannon Valley",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4800"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "8f514ca6-54fe-4f21-8498-c42dd35f3f27",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID6108781",
+    "ORIGINAL ADDRESS": "U 158 392 Jones St ULTIMO NSW 2007 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Unit 158/392 Jones St, Ultimo NSW 2007, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 95,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.8771358": 151.1962891
+    },
+    "SUGGESTED PLACE ID": "ChIJZTOhty-uEmsR2tNJPyr2vPY",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "Unit 158/392 Jones St,",
+        "address_line_2": "Ultimo NSW 2007, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "Unit 158 392  Jones Street",
+        "suburb": "Ultimo",
+        "city": "City of Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2007"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "392",
+        "street": "Jones Street",
+        "suburb": "Ultimo",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2007"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "392",
+        "line2": "Jones Street",
+        "suburb": "Ultimo",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2007"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "3f2c1e40-b55a-4658-8fc1-bc10da1c6888",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID2902791",
+    "ORIGINAL ADDRESS": "26 Banksia St MOOROOBOOL QLD 4870 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "26 Banksia St, Mooroobool QLD 4870, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-16.9376658": 145.7360903
+    },
+    "SUGGESTED PLACE ID": "ChIJnT_KtgxkeGkRlCz94PmZnjA",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "26 Banksia St, Mooroobool",
+        "address_line_2": "QLD 4870, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 26  Banksia Street",
+        "suburb": "Mooroobool",
+        "city": "Cairns Regional",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4870"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "26",
+        "street": "Banksia Street",
+        "suburb": "Mooroobool",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4870"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "26",
+        "line2": "Banksia Street",
+        "suburb": "Mooroobool",
+        "state": "Queensland",
+        "country": "Australia",
+        "post_code": "4870"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "c3af7f15-5758-4b41-9d1f-5dbe88d1fcf8",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID6349773",
+    "ORIGINAL ADDRESS": "U 1 220-222 Wilsons Rd WHITTINGTON VIC 3219 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Unit 1/220-222 Wilsons Rd, Whittington VIC 3219, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 95,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-38.1785743": 144.3897
+    },
+    "SUGGESTED PLACE ID": "ChIJN0dLpUwU1GoRXTWJI6RS648",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [58] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "Unit 1 220-222  Wilsons Road",
+        "suburb": "Whittington",
+        "city": "Greater Geelong City",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3219"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "220-222",
+        "street": "Wilsons Road",
+        "suburb": "Whittington",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3219"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "220-222",
+        "line2": "Wilsons Road",
+        "suburb": "Whittington",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3219"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "e5c2df28-8640-4ad8-b089-c016892d7027",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID7513988",
+    "ORIGINAL ADDRESS": "C1-20 Hanbury St KALGOORLIE WA 6430 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "c1/20 Hanbury St, Kalgoorlie WA 6430, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 98,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-30.7493758": 121.4783721
+    },
+    "SUGGESTED PLACE ID": "Ei9jMS8yMCBIYW5idXJ5IFN0LCBLYWxnb29ybGllIFdBIDY0MzAsIEF1c3RyYWxpYSI4GjYKMBIuChQKEgk5j8W3sWdNKhG8H8jb1yx4ZxAUKhQKEgm31yVusWdNKhHzeZxoRbxiVxICYzE",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "c1/20 Hanbury St,",
+        "address_line_2": "Kalgoorlie WA 6430, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "c1 20  Hanbury Street",
+        "suburb": "Kalgoorlie",
+        "city": "City of Kalgoorlie-Boulder",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6430"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "20",
+        "street": "Hanbury Street",
+        "suburb": "Kalgoorlie",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6430"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "20",
+        "line2": "Hanbury Street",
+        "suburb": "Kalgoorlie",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6430"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "e4b1dfba-0586-4918-9986-84384d107c67",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID6399621",
+    "ORIGINAL ADDRESS": "252 Marine Tce BUSSELTON WA 6280 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "252 Marine Terrace, Geographe WA 6280, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 80,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-33.6404664": 115.3682726
+    },
+    "SUGGESTED PLACE ID": "ChIJBxxmH105LioRhtSFUUrAtzk",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "252 Marine Terrace,",
+        "address_line_2": "Geographe WA 6280, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 252  Marine Terrace",
+        "suburb": "Geographe",
+        "city": "City of Busselton",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6280"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "252",
+        "street": "Marine Terrace",
+        "suburb": "Geographe",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6280"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "252",
+        "line2": "Marine Terrace",
+        "suburb": "Geographe",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6280"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "3904f792-8845-4664-9b9f-e4ef0fc644a6",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID1597550",
+    "ORIGINAL ADDRESS": "U 5 69 Francis St BONDI BEACH NSW 2026 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Unit 5/69 Francis St, Bondi Beach NSW 2026, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 95,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.8919829": 151.2689621
+    },
+    "SUGGESTED PLACE ID": "ChIJl40QhJqtEmsR5FY1r4-bQjw",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [53] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "Unit 5 69  Francis Street",
+        "suburb": "Bondi Beach",
+        "city": "Waverley Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2026"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "69",
+        "street": "Francis Street",
+        "suburb": "Bondi Beach",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2026"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "69",
+        "line2": "Francis Street",
+        "suburb": "Bondi Beach",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2026"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "b9e4f34d-d92c-4703-93bd-bb0c7aafac5d",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID7366579",
+    "ORIGINAL ADDRESS": "43A Pallas Way SAN REMO WA 6210 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "43A Pallas Way, San Remo WA 6210, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-32.4856298": 115.7468342
+    },
+    "SUGGESTED PLACE ID": "ChIJG8lQIX1-MioRvVFyj7YynlU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "43A Pallas Way, San Remo ",
+        "address_line_2": "WA 62"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 43A  Pallas Way",
+        "suburb": "San Remo",
+        "city": "City of Mandurah",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6210"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "43A",
+        "street": "Pallas Way",
+        "suburb": "San Remo",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6210"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "43A",
+        "line2": "Pallas Way",
+        "suburb": "San Remo",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6210"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "060e3d81-6454-48bb-87a9-0b4913597282",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID6735211",
+    "ORIGINAL ADDRESS": "711 Lowe Rd ROCHESTER VIC 3561 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "711 Lowe Rd, Ballendella VIC 3561, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 80,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-36.3067695": 144.6436016
+    },
+    "SUGGESTED PLACE ID": "ChIJy4nzRyOv2WoRNtg7zOcP_fM",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "711 Lowe Rd, Ballendella ",
+        "address_line_2": "VIC 3"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 711  Lowe Road",
+        "suburb": "Ballendella",
+        "city": "Campaspe Shire",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3561"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "711",
+        "street": "Lowe Road",
+        "suburb": "Ballendella",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3561"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "711",
+        "line2": "Lowe Road",
+        "suburb": "Ballendella",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3561"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "9ca0c3fc-c21b-4317-86be-099f36475eba",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID4459853",
+    "ORIGINAL ADDRESS": "44b Etrema Loop South Hedland WA 6722 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "44B Etrema Loop, South Hedland WA 6722, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-20.40063": 118.61713
+    },
+    "SUGGESTED PLACE ID": "ChIJVXwImVFK9SsRKZLhjZtrn0E",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "44B Etrema Loop, South",
+        "address_line_2": "Hedland WA 6722, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 44B  Etrema Loop",
+        "suburb": "South Hedland",
+        "city": "Town of Port Hedland",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6722"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "44B",
+        "street": "Etrema Loop",
+        "suburb": "South Hedland",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6722"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "44B",
+        "line2": "Etrema Loop",
+        "suburb": "South Hedland",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6722"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "89d2bb6a-7d01-4e63-9133-2d392fbdfbd6",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID2052100",
+    "ORIGINAL ADDRESS": "105 Popondetta  Rd EMERTON NSW 2770 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "105 Popondetta Rd, Emerton NSW 2770, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 99,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.7461227": 150.8103567
+    },
+    "SUGGESTED PLACE ID": "ChIJJ3Zf3wGbEmsRUjJWSvjBvbI",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "105 Popondetta Rd,",
+        "address_line_2": "Emerton NSW 2770, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 105  Popondetta Road",
+        "suburb": "Emerton",
+        "city": "City of Blacktown",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2770"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "105",
+        "street": "Popondetta Road",
+        "suburb": "Emerton",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2770"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "105",
+        "line2": "Popondetta Road",
+        "suburb": "Emerton",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2770"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "6aeac587-fb51-4a0a-ba20-300d4f1e5b98",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID3916935",
+    "ORIGINAL ADDRESS": "50 Main Rd MCLAREN FLAT SA 5171 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "50 Main Rd, McLaren Flat SA 5171, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-35.2069646": 138.5874964
+    },
+    "SUGGESTED PLACE ID": "ChIJ5_mz9DIvsWoRDspvgcaG32U",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "50 Main Rd, McLaren Flat ",
+        "address_line_2": "SA 51"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 50  Main Road",
+        "suburb": "McLaren Flat",
+        "city": "City of Onkaparinga",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5171"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "50",
+        "street": "Main Road",
+        "suburb": "McLaren Flat",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5171"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "50",
+        "line2": "Main Road",
+        "suburb": "McLaren Flat",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5171"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "2d628738-a462-4d96-8693-b7bd9e4337ce",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID8715806",
+    "ORIGINAL ADDRESS": "4 Mount View Rd MILLFIELD NSW 2325 AUSTRALIA",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "4 Mount View Rd, Millfield NSW 2325, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-32.8884667": 151.2556251
+    },
+    "SUGGESTED PLACE ID": "ChIJDamGtsDNDGsRwIaX95uoUSo",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "4 Mount View Rd,",
+        "address_line_2": "Millfield NSW 2325, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 4  Mount View Road",
+        "suburb": "Millfield",
+        "city": "Cessnock City Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2325"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "4",
+        "street": "Mount View Road",
+        "suburb": "Millfield",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2325"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "4",
+        "line2": "Mount View Road",
+        "suburb": "Millfield",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2325"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "c702fb08-a8f7-4bd0-9cbd-e4e59e752a06",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CID7698328",
+    "ORIGINAL ADDRESS": "U 8 325 Pacific Hwy FREDERICKTON NSW 2440 AUSTRALIA",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "U 8/325 Pacific Hwy, Kempsey NSW 2440, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 82,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-31.060477": 152.8481977
+    },
+    "SUGGESTED PLACE ID": "EjBVIDgvMzI1IFBhY2lmaWMgSHd5LCBLZW1wc2V5IE5TVyAyNDQwLCBBdXN0cmFsaWEiHxodChYKFAoSCbfpV-ls351rEeujuq-z4BN7EgNVIDg",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "U 8/325 Pacific Hwy,",
+        "address_line_2": "Kempsey NSW 2440, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "U 8 325  Pacific Highway",
+        "suburb": "Kempsey",
+        "city": "Kempsey Shire Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2440"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "325",
+        "street": "Pacific Highway",
+        "suburb": "Kempsey",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2440"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "325",
+        "line2": "Pacific Highway",
+        "suburb": "Kempsey",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2440"
+    },
+    "COLUMN NAME KEY": [
+        "ID"
+    ],
+    "COLUMN NAME VALUE": [
+        "id"
+    ],
+    "GUID": "f82367e1-b27b-406c-b8e2-001b7a9d4852",
+    "NAMESPACE": "myserver.address.sample",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/address_sample_mockup.csv",
+    "SOURCE METADATA": "metadata/address_sample_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},

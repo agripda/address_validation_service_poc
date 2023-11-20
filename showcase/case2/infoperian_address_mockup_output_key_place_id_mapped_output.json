@@ -1,0 +1,560 @@
+{
+    "GUID": "67053fb9-a003-4ebe-8eb1-78bdfb6a9f15",
+    "KEY NAME": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "KEY COLUMN": [
+        "party_key",
+        "product_system_code"
+    ],
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "ADDRESS COMPONENTS": [
+        {
+            "long_name": "243",
+            "short_name": "243",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Baylis Street",
+            "short_name": "Baylis St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga City Council",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "2650",
+            "short_name": "2650",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "API SERVICE": "googlemaps"
+},
+{
+    "GUID": "2e8fe0da-daa1-4718-94f8-8d1bab51831f",
+    "KEY NAME": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "KEY COLUMN": [
+        "party_key",
+        "product_system_code"
+    ],
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "ADDRESS COMPONENTS": [
+        {
+            "long_name": "243",
+            "short_name": "243",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Baylis Street",
+            "short_name": "Baylis St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga City Council",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "2650",
+            "short_name": "2650",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "API SERVICE": "googlemaps"
+},
+{
+    "GUID": "8a0f9d34-170b-45b1-8d6d-7a75e26ec2aa",
+    "KEY NAME": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "KEY COLUMN": [
+        "party_key",
+        "product_system_code"
+    ],
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "ADDRESS COMPONENTS": [
+        {
+            "long_name": "243",
+            "short_name": "243",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Baylis Street",
+            "short_name": "Baylis St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga City Council",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "2650",
+            "short_name": "2650",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "API SERVICE": "googlemaps"
+},
+{
+    "GUID": "e7895527-fc0a-4870-83d0-426acc388977",
+    "KEY NAME": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "KEY COLUMN": [
+        "party_key",
+        "product_system_code"
+    ],
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "ADDRESS COMPONENTS": [
+        {
+            "long_name": "243",
+            "short_name": "243",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Baylis Street",
+            "short_name": "Baylis St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga City Council",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "2650",
+            "short_name": "2650",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "API SERVICE": "googlemaps"
+},
+{
+    "GUID": "743b82b7-4a5e-46c1-8f9c-638b3bdc969c",
+    "KEY NAME": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "KEY COLUMN": [
+        "party_key",
+        "product_system_code"
+    ],
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "ADDRESS COMPONENTS": [
+        {
+            "long_name": "243",
+            "short_name": "243",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Baylis Street",
+            "short_name": "Baylis St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga City Council",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "2650",
+            "short_name": "2650",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "API SERVICE": "googlemaps"
+},
+{
+    "GUID": "b99adfe8-0206-46c1-a949-ff32eff5d8b3",
+    "KEY NAME": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "KEY COLUMN": [
+        "party_key",
+        "product_system_code"
+    ],
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "ADDRESS COMPONENTS": [
+        {
+            "long_name": "243",
+            "short_name": "243",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Baylis Street",
+            "short_name": "Baylis St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Wagga Wagga City Council",
+            "short_name": "Wagga Wagga",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "2650",
+            "short_name": "2650",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "API SERVICE": "googlemaps"
+},
+{
+    "GUID": "c265f815-dcad-47a3-8c92-540ddb64a252",
+    "KEY NAME": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "KEY COLUMN": [
+        "party_key",
+        "product_system_code"
+    ],
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "PLACE ID": "ChIJgRQnS-CxMioRA_DYtBZ2npA",
+    "ADDRESS": "Unit 2/43 Golders Way, Girrawheen WA 6064, Australia",
+    "ADDRESS COMPONENTS": [
+        {
+            "long_name": "Unit 2",
+            "short_name": "Unit 2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "43",
+            "short_name": "43",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Golders Way",
+            "short_name": "Golders Way",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Girrawheen",
+            "short_name": "Girrawheen",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "City of Wanneroo",
+            "short_name": "Wanneroo",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Western Australia",
+            "short_name": "WA",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "6064",
+            "short_name": "6064",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "API SERVICE": "googlemaps"
+},
+{
+    "GUID": "6283f2c2-953c-4ace-a0ce-6c93acbda1ca",
+    "KEY NAME": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "KEY COLUMN": [
+        "party_key",
+        "product_system_code"
+    ],
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "PLACE ID": "ChIJowjZdrGJviwR6-hMQKegvYI",
+    "ADDRESS": "Wooliana Rd, Daly River NT 0822, Australia",
+    "ADDRESS COMPONENTS": [
+        {
+            "long_name": "Wooliana Road",
+            "short_name": "Wooliana Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Daly River",
+            "short_name": "Daly River",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Victoria Daly Region",
+            "short_name": "Victoria Daly Region",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Northern Territory",
+            "short_name": "NT",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "0822",
+            "short_name": "0822",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "API SERVICE": "googlemaps"
+},

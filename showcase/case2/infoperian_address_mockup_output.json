@@ -1,0 +1,461 @@
+{
+    "KEY": "PK1011571_WRONG_COUNTRY|PSC_1",
+    "ORIGINAL ADDRESS": " 243 Baylis St  Wagga Wagga NSW 2650 New Zealand",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 83,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-35.109307": 147.3714238
+    },
+    "SUGGESTED PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "243 Baylis St, Wagga",
+        "address_line_2": "Wagga NSW 2650, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 243  Baylis Street",
+        "suburb": "Wagga Wagga",
+        "city": "Wagga Wagga City Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "243",
+        "street": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "243",
+        "line2": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "67053fb9-a003-4ebe-8eb1-78bdfb6a9f15",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "PK1011573_POSTCODE_IN_SUBURB|PSC_2",
+    "ORIGINAL ADDRESS": " 243 Baylis St Wagga Wagga NSW 2650 Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 99,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-35.109307": 147.3714238
+    },
+    "SUGGESTED PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "243 Baylis St, Wagga",
+        "address_line_2": "Wagga NSW 2650, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 243  Baylis Street",
+        "suburb": "Wagga Wagga",
+        "city": "Wagga Wagga City Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "243",
+        "street": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "243",
+        "line2": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "2e8fe0da-daa1-4718-94f8-8d1bab51831f",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "PK1011575_IN_SINGLE_LINE|PSC_3",
+    "ORIGINAL ADDRESS": " 243 Baylis St Wagga Wagga NSW 2650 Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 99,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-35.109307": 147.3714238
+    },
+    "SUGGESTED PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "243 Baylis St, Wagga",
+        "address_line_2": "Wagga NSW 2650, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 243  Baylis Street",
+        "suburb": "Wagga Wagga",
+        "city": "Wagga Wagga City Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "243",
+        "street": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "243",
+        "line2": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "8a0f9d34-170b-45b1-8d6d-7a75e26ec2aa",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "PK1011577_MISSING_POSTCODE|PSC_4",
+    "ORIGINAL ADDRESS": " 243 Baylis Road Wagga Wagga Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 80,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-35.109307": 147.3714238
+    },
+    "SUGGESTED PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "243 Baylis St, Wagga",
+        "address_line_2": "Wagga NSW 2650, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 243  Baylis Street",
+        "suburb": "Wagga Wagga",
+        "city": "Wagga Wagga City Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "243",
+        "street": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "243",
+        "line2": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "e7895527-fc0a-4870-83d0-426acc388977",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "PK1011579_WRONG_POSTCODE|PSC_5",
+    "ORIGINAL ADDRESS": " 243 Baylis Road Wagga Wagga 2653 Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 85,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-35.109307": 147.3714238
+    },
+    "SUGGESTED PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "243 Baylis St, Wagga",
+        "address_line_2": "Wagga NSW 2650, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 243  Baylis Street",
+        "suburb": "Wagga Wagga",
+        "city": "Wagga Wagga City Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "243",
+        "street": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "243",
+        "line2": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "743b82b7-4a5e-46c1-8f9c-638b3bdc969c",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "PK1011581_MISSING_SUBURB|PSC_6",
+    "ORIGINAL ADDRESS": " 243 Baylis Street 2650 Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "243 Baylis St, Wagga Wagga NSW 2650, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 73,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-35.109307": 147.3714238
+    },
+    "SUGGESTED PLACE ID": "ChIJBfW_iYCZGGsRF5WC58CyI8Y",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "243 Baylis St, Wagga",
+        "address_line_2": "Wagga NSW 2650, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 243  Baylis Street",
+        "suburb": "Wagga Wagga",
+        "city": "Wagga Wagga City Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "243",
+        "street": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "243",
+        "line2": "Baylis Street",
+        "suburb": "Wagga Wagga",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2650"
+    },
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "b99adfe8-0206-46c1-a949-ff32eff5d8b3",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "PK1011583_UNKNOWN|PSC_7",
+    "ORIGINAL ADDRESS": " UNIT 2 43 GOLDERS WAY     GIRRAWHEEN WA 6064 Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Unit 2/43 Golders Way, Girrawheen WA 6064, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 93,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-31.848131": 115.8539022
+    },
+    "SUGGESTED PLACE ID": "ChIJgRQnS-CxMioRA_DYtBZ2npA",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [52] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": "Unit 2 43  Golders Way",
+        "suburb": "Girrawheen",
+        "city": "City of Wanneroo",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6064"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "43",
+        "street": "Golders Way",
+        "suburb": "Girrawheen",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6064"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "43",
+        "line2": "Golders Way",
+        "suburb": "Girrawheen",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6064"
+    },
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "c265f815-dcad-47a3-8c92-540ddb64a252",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "PK1011673_MISSING_ZERO|PSC_8",
+    "ORIGINAL ADDRESS": "49 Wooliana Road Daly River NT 822 Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "Wooliana Rd, Daly River NT 0822, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 93,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-13.6901307": 130.6656924
+    },
+    "SUGGESTED PLACE ID": "ChIJowjZdrGJviwR6-hMQKegvYI",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "Wooliana Rd, Daly River",
+        "address_line_2": "NT 0822, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " street_number_na  Wooliana Road",
+        "suburb": "Daly River",
+        "city": "Victoria Daly Region",
+        "state": "Northern Territory",
+        "country": "Australia",
+        "post_code": "0822"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "street_number_na",
+        "street": "Wooliana Road",
+        "suburb": "Daly River",
+        "state": "Northern Territory",
+        "country": "Australia",
+        "post_code": "0822"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "street_number_na",
+        "line2": "Wooliana Road",
+        "suburb": "Daly River",
+        "state": "Northern Territory",
+        "country": "Australia",
+        "post_code": "0822"
+    },
+    "COLUMN NAME KEY": [
+        "PARTY_KEY",
+        "PRODUCT_SYSTEM_CODE"
+    ],
+    "COLUMN NAME VALUE": [
+        "party_key",
+        "product_system_code"
+    ],
+    "GUID": "6283f2c2-953c-4ace-a0ce-6c93acbda1ca",
+    "NAMESPACE": "infoperian.test.rla.com.au",
+    "SOURCE SYSTEM": "infoperian",
+    "SOURCE DATA": "data/infoperian_address_mockup.csv",
+    "SOURCE METADATA": "metadata/infoperian_address_mockup.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},

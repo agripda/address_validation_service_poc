@@ -1,0 +1,40 @@
+﻿KEY,COUNTRY_CLUB_NAME,ADDRESS_INCORRECT,ADDRESS_CORRECT,CHECKBIT
+ROYAL_MELBOURNE_GOLF_CLUB,Royal Melbourne Golf Club,"315 Royal Melboe Ave, Sandringham VIC 3191, Australia","315 Royal Melbourne Ave, Sandringham VIC 3191, Australia",FALSE
+KINGSTON_HEATH_GOLF_CLUB,Kingston Heath Golf Club,"420 Springvale Rd, Chenham VIC 3192, Austrlia","420 Springvale Rd, Cheltenham VIC 3192, Australia",FALSE
+THE_AUSTRALIAN_GOLF_CLUB,The Australian Golf Club,"800 Victoria Ave, Rosebery NXW 2039, Australia","800 Victoria Ave, Rosebery NSW 2039, Australia",FALSE
+METROPOLITAN_GOLF_CLUB,Metropolitan Golf Club,"129 Greenhills Rd, Huntingdale VIC 3162, Australia","129 Greenhills Rd, Huntingdale VIC 3162, Australia",TRUE
+NEW_SOUTH_WALES_GOLF_CLUB,New South Wales Golf Club,"222 King St, Kensington NSW 2093, Australia","222 King St, Kensington NSW 2033, Australia",FALSE
+ROYAL_ADELAIDE_GOLF_CLUB,Royal Adelaide Golf Club,"Grange Rd, Grange SA 5022, Australia","Grange Rd, Grange SA 5022, Australia",TRUE
+ROYAL_QUEENSLAND_GOLF_CLUB,Royal Queensland Golf Club,"1117 King St, Ascot QLD 4009, Australia","1117 King St, Ascot QLD 4009, Australia",TRUE
+KOOYONGA_GOLF_CLUB,Kooyonga Golf Club,"165 Greenhill Rd, Glenelg SA 5045, Australia","165 Greenhill Rd, Glenelg SA 5045, Australia",TRUE
+THE_GRANGE_GOLF_CLUB,The Grange Golf Club,"220 The Grange Rd, The Grange SA 5022, New Zealand","220 The Grange Rd, The Grange SA 5022, Australia",FALSE
+YARRA_YARRA_GOLF_CLUB,Yarra Yarra Golf Club,"421 Lower Heidelberg Rd, Heidelberg Heights VIC 3081, Australia","421 Lower Heidelberg Rd, Heidelberg Heights VIC 3081, Australia",TRUE
+THE_VINES_GOLF_CLUB,The Vines Golf Club,"750 The Vines Dr, Eynesbury VIC 3139, Australia","750 The Vines Dr, Eynesbury VIC 3139, Australia",TRUE
+VICTORIA_GOLF_CLUB,Victoria Golf Club,"133 Victoria St, Albert Pork VIC 3206, Australia","133 Victoria St, Albert Park VIC 3206, Australia",FALSE
+COMMONWEALTH_GOLF_CLUB,Commonwealth Golf Club,"180 Comonwealth Ave, Malvern VIC 3144, Australia","180 Commonwealth Ave, Malvern VIC 3144, Australia",FALSE
+PENINSULA_GOLF_CLUB,Peninsula Golf Club,"137 Jacksons Rd, MorXXnington VIC 3931, Australia","137 Jacksons Rd, Mornington VIC 3931, Australia",FALSE
+SORRENTO_GOLF_CLUB,Sorrento Golf Club,"112 Hotham Rd, Sorrento VIC 3934, Australia","112 Hotham Rd, Sorrento VIC 3934, Australia",TRUE
+THE_AUSTRALIAN_GOLF_CLUB_DOSE_PENINSULA,The Australian Golf Club Dose Peninsula,"282 Nepean Hwy, DromaXna VIC 3901, Australia","282 Nepean Hwy, Dromana VIC 3931, Australia",FALSE
+NORTH_SYDNEY_GOLF_CLUB,North Sydney Golf Club,"259 Pacific Hwy, North Sydney NSW 2060, Australia","259 Pacific Hwy, North Sydney NSW 2060, Australia",TRUE
+ROYAL_HOBART_GOLF_CLUB,Royal Hobart Golf Club,"40 Sanddy Bay Rd, Sandy Bay TAS 79005, Australia","40 Sandy Bay Rd, Sandy Bay TAS 7005, Australia",FALSE
+ROYAL_FREMANTLE_GOLF_CLUB,Royal Fremantle Golf Club,"271 Carrington St, Fremantle WA 6160, Australia","271 Carrington St, Fremantle WA 6160, Australia",TRUE
+ROYAL_PERTH_GOLF_CLUB,Royal Perth Golf Club,"44 Burt St, Victoria Park WA 6100, Australia","44 Burt St, Victoria Park WA 6100, Australia",TRUE
+JOONDALUP_RESORT_GOLF_COURSE,Joondalup Resort Golf Course,"30 GuildXXerton Rd, Joondalup WA 6027, Australia","30 Guilderton Rd, Joondalup WA 6027, Australia",FALSE
+LAKE_KARRINYUP_COUNTRY_CLUB,Lake Karrinyup Country Club,"400 Karrinyup Rd, Karrinyup WA 6018, Australia","400 Karrinyup Rd, Karrinyup WA 6018, Australia",TRUE
+THE_NATIONAL_GOLF_CLUB,The National Golf Club,"115 Cape Schanck Rd, Cape Schanck VIC 3926, Australia","115 Cape Schanck Rd, Cape Schanck VIC 3926, Australia",TRUE
+CAPE_SCHANCK_GOLF_COURSE,Cape Schanck Golf Course,"130 Cape Schanck Rd, Cape Schanck TAZ 3926, Australia","130 Cape Schanck Rd, Cape Schanck VIC 3926, Australia",FALSE
+ST_ANDREWS_BEACH_GOLF_COURSE,St Andrews Beach Golf Course,"270 St Andrews Beach Rd, St Andrews Beach VIC 3926, Australia","270 St Andrews Beach Rd, St Andrews Beach VIC 3926, Australia",TRUE
+MOONAH_LINKS_GOLF_COURSE,Moonah Links Golf Course,"557 Purves Rd, Rye VIC 3941, Australia","557 Purves Rd, Rye VIC 3941, Australia",TRUE
+CAPE_WICKHAM_GOLF_COURSE,Cape Wickham Golf Course,"100 Cape Wickham Rd, Flinders Island TAS 7255, Australia","100 Cape Wickham Rd, Flinders Island TAS 7255, Australia",TRUE
+KING_ISLAND_GOLF_COURSE,King Island Golf Course,"118 Adams Rd, King Island TAS 7256, Australia","118 Adams Rd, King Island TAS 7256, Australia",TRUE
+THE_DUNES_GOLF_CLUB,The Dunes Golf Club,"154 Flinders Island Rd, King Island NSW 7256, Australia","154 Flinders Island Rd, King Island TAS 7256, Australia",FALSE
+BARNBOUGLE_DUNES_GOLF_COURSE,Barnbougle Dunes Golf Course,"55 The Nack, Bridport TAS 7282, Australia","55 The Neck, Bridport TAS 7262, Australia",FALSE
+TASMANIA_GOLF_CLUB,Tasmania Golf Club,"100 Tasman Hwy, New Norfolk TAS 7170, Australia","100 Tasman Hwy, New Norfolk TAS 7170, Australia",TRUE
+ROYAL_HOBART_GOLF_CLUB,Royal Hobart Golf Club,"40 Sandy Bay Rd, Sandy Bay TAS 7005, Australia","40 Sandy Bay Rd, Sandy Bay TAS 7005, Australia",TRUE
+HOBART_GOLF_CLUB,Hobart Golf Club,"108 Tasman Hwy, New Norfolk TAS 7170, Australia","108 Tasman Hwy, New Norfolk TAS 7170, Australia",TRUE
+TASMANIA_GOLF_CLUB_(LAUNCESTON),Tasmania Golf Club (Launceston),"100 Paterson St, Launceston TASS 7250, Australia","100 Paterson St, Launceston TAS 7250, Australia",FALSE
+ROYAL_HOBART_GOLF_CLUB_(NEW_TOWN),Royal Hobart Golf Club (New Town),"80 Thewent St, New Town TAS 7008, Australia","80 Derwent St, New Town TAS 7008, Australia",FALSE
+THE_GRANGE_GOLF_CLUB,The Grange Golf Club,"220 The Grange Rd, The Grange SA 5022, Australia","220 The Grange Rd, The Grange SA 5022, Australia",TRUE
+ROYAL_ADELAIDE_GOLF_CLUB,Royal Adelaide Golf Club,"Grange Rd, Grange SAt 5022, Australia","Grange Rd, Grange SA 5022, Australia",FALSE
+KOOYONGA_GOLF_CLUB,Kooyonga Golf Club,"165 Greenthill Rd, Glenelg SA 5065, Australia","165 Greenhill Rd, Glenelg SA 5045, Australia",FALSE
+GLENELG_GOLF_CLUB,Glenelg Golf Club,"123 Glexnelg Beach Rd, Glenel","123 Glenelg Beach Rd, Glenel",FALSE

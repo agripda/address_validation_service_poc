@@ -1,0 +1,38 @@
+{
+  "name": "golf_cc_address",
+  "namespace": "golf",
+  "type": "record",
+  "version": "1.20",
+  "schema": [
+    {
+      "index": 1,
+      "key": "KEY",
+      "value": "key",
+      "address_attribute": "no"
+    },
+    {
+      "index": 2,
+      "key": "COUNTRY_CLUB_NAME",
+      "value": "country_club_name",
+      "address_attribute": "no"
+    },
+    {
+      "index": 3,
+      "key": "ADDRESS_INCORRECT",
+      "value": "address_incorrect",
+      "address_attribute": "yes"
+    },
+     {
+      "index": 3,
+      "key": "ADDRESS_CORRECT",
+      "value": "address_correct",
+      "address_attribute": "no"
+    },
+     {
+      "index": 3,
+      "key": "CHECKBIT",
+      "value": "checkbit",
+      "address_attribute": "no"
+    }
+  ]
+}

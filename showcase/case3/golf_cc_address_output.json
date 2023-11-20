@@ -1,0 +1,1788 @@
+{
+    "KEY": "ROYAL_MELBOURNE_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "315 Royal Melboe Ave, Sandringham VIC 3191, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Sandringham VIC 3191, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 74,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-37.9533967": 145.0135139
+    },
+    "SUGGESTED PLACE ID": "ChIJbfbc1yds1moRgD4uRnhWBBw",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "6afab7de-286d-4ced-b851-f4ca153ccf69",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "KINGSTON_HEATH_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "420 Springvale Rd, Chenham VIC 3192, Austrlia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "420 Springvale Rd, Springvale South VIC 3172, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 77,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-37.9643608": 145.1493482
+    },
+    "SUGGESTED PLACE ID": "ChIJr8K54qUU1moR3IoGiGvZnZ8",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [55] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 420  Springvale Road",
+        "suburb": "Springvale South",
+        "city": "City of Greater Dandenong",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3172"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "420",
+        "street": "Springvale Road",
+        "suburb": "Springvale South",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3172"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "420",
+        "line2": "Springvale Road",
+        "suburb": "Springvale South",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3172"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "98eb17f8-052f-46c3-8cd8-fa4b55ea3474",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "THE_AUSTRALIAN_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "800 Victoria Ave, Rosebery NXW 2039, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Rozelle NSW 2039, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 63,
+    "SIMILARITY LEVEL": "Somewhat similar, with significant differences",
+    "SUGGESTED COORDINATES": {
+        "-33.8661553": 151.1738213
+    },
+    "SUGGESTED PLACE ID": "ChIJ17E7YtKvEmsRcIu6P2t9ARw",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "234d7d69-fdfa-490d-9628-1a62ec5264ff",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "METROPOLITAN_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "129 Greenhills Rd, Huntingdale VIC 3162, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "129 Greenhills Rd, Pakenham VIC 3810, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 80,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-38.1024823": 145.4855061
+    },
+    "SUGGESTED PLACE ID": "Ei8xMjkgR3JlZW5oaWxscyBSZCwgUGFrZW5oYW0gVklDIDM4MTAsIEF1c3RyYWxpYSIxEi8KFAoSCbd5boWMHdZqEbINZPPt8meiEIEBKhQKEgkx3Y9Gkh3WahEwsQ2epCVaKQ",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "129 Greenhills Rd,",
+        "address_line_2": "Pakenham VIC 3810, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 129  Greenhills Road",
+        "suburb": "Pakenham",
+        "city": "Cardinia Shire",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3810"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "129",
+        "street": "Greenhills Road",
+        "suburb": "Pakenham",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3810"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "129",
+        "line2": "Greenhills Road",
+        "suburb": "Pakenham",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3810"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "710d776f-350d-4e45-8ee7-c77817675d6b",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "NEW_SOUTH_WALES_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "222 King St, Kensington NSW 2093, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "King St, Manly Vale NSW 2093, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 72,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-33.782071": 151.2628504
+    },
+    "SUGGESTED PLACE ID": "ChIJ1z2Fj7SrEmsRNNfpWG3G4S0",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "King St, Manly Vale NSW",
+        "address_line_2": "2093, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " street_number_na  King Street",
+        "suburb": "Manly Vale",
+        "city": "Northern Beaches Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2093"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "street_number_na",
+        "street": "King Street",
+        "suburb": "Manly Vale",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2093"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "street_number_na",
+        "line2": "King Street",
+        "suburb": "Manly Vale",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2093"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "fb74c1ae-6c92-4a73-9610-16dca32669ca",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ROYAL_ADELAIDE_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "Grange Rd, Grange SA 5022, Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "Grange Rd, Grange SA 5022, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-34.9071143": 138.4980773
+    },
+    "SUGGESTED PLACE ID": "EiRHcmFuZ2UgUmQsIEdyYW5nZSBTQSA1MDIyLCBBdXN0cmFsaWEiLiosChQKEgkrbUcDyMWwahGZlsdxbtp0IRIUChIJTRzPpWvEsGoRULKOYlQ2AwU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "Grange Rd, Grange SA",
+        "address_line_2": "5022, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " street_number_na  Grange Road",
+        "suburb": "Grange",
+        "city": "City of Charles Sturt",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5022"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "street_number_na",
+        "street": "Grange Road",
+        "suburb": "Grange",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5022"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "street_number_na",
+        "line2": "Grange Road",
+        "suburb": "Grange",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5022"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "d6831485-e7c3-49ed-a5c5-3f44e3d75d7a",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ROYAL_QUEENSLAND_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "1117 King St, Ascot QLD 4009, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Eagle Farm QLD 4009, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 67,
+    "SIMILARITY LEVEL": "Somewhat similar, with significant differences",
+    "SUGGESTED COORDINATES": {
+        "-27.4330179": 153.0829858
+    },
+    "SUGGESTED PLACE ID": "ChIJA_hrrZVYkWsRADrXJ16jAhw",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "8f4c5b0a-eb63-4f7c-b7d1-edb7ad1217f5",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "KOOYONGA_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "165 Greenhill Rd, Glenelg SA 5045, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "165 Greenhill Rd, Adelaide SA 5000, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 82,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-34.9408068": 138.6104467
+    },
+    "SUGGESTED PLACE ID": "Ei0xNjUgR3JlZW5oaWxsIFJkLCBBZGVsYWlkZSBTQSA1MDAwLCBBdXN0cmFsaWEiMRIvChQKEglj09k66M6wahGRpW0oe2joFRClASoUChIJ01vHCwzPsGoRXUfTU_xOxBs",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "165 Greenhill Rd,",
+        "address_line_2": "Adelaide SA 5000, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 165  Greenhill Road",
+        "suburb": "Adelaide",
+        "city": "City of Unley",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5000"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "165",
+        "street": "Greenhill Road",
+        "suburb": "Adelaide",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5000"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "165",
+        "line2": "Greenhill Road",
+        "suburb": "Adelaide",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5000"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "d6aa7d1a-99b5-44c4-b238-f8b2a8ec229f",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "THE_GRANGE_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "220 The Grange Rd, The Grange SA 5022, New Zealand",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "New Zealand",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 37,
+    "SIMILARITY LEVEL": "Different",
+    "SUGGESTED COORDINATES": {
+        "-40.900557": 174.885971
+    },
+    "SUGGESTED PLACE ID": "ChIJh5Z3Fw4gLG0RM0dqdeIY1rE",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "e21abc94-78f8-46d3-9e3c-a90887327e7d",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "YARRA_YARRA_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "421 Lower Heidelberg Rd, Heidelberg Heights VIC 3081, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "421 Lower Heidelberg Rd, Eaglemont VIC 3084, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 81,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-37.7616445": 145.0681419
+    },
+    "SUGGESTED PLACE ID": "ChIJh60lU4xG1moRn59M3mEVnwc",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [54] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 421  Lower Heidelberg Road",
+        "suburb": "Eaglemont",
+        "city": "City of Banyule",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3084"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "421",
+        "street": "Lower Heidelberg Road",
+        "suburb": "Eaglemont",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3084"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "421",
+        "line2": "Lower Heidelberg Road",
+        "suburb": "Eaglemont",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3084"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "690e612b-9a26-4542-99ba-2132b402a460",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "THE_VINES_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "750 The Vines Dr, Eynesbury VIC 3139, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Eynesbury VIC 3338, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 71,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-37.7930182": 144.5570412
+    },
+    "SUGGESTED PLACE ID": "ChIJLQUEcCSR1moRgPiMIXVWBAU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "c99874f9-69cb-4ff1-bbd8-528759bbc68d",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "VICTORIA_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "133 Victoria St, Albert Pork VIC 3206, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Middle Park VIC 3206, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 68,
+    "SIMILARITY LEVEL": "Somewhat similar, with significant differences",
+    "SUGGESTED COORDINATES": {
+        "-37.8460268": 144.9584302
+    },
+    "SUGGESTED PLACE ID": "ChIJ7W2p5Ohn1moRsDkuRnhWBBw",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "916cee52-fecd-427a-838d-eb4da96ec7c5",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "COMMONWEALTH_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "180 Comonwealth Ave, Malvern VIC 3144, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Malvern VIC 3144, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 72,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-37.852403": 145.0357348
+    },
+    "SUGGESTED PLACE ID": "ChIJFc4iKARC1moRMNqMIXVWBAU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "989c4735-5e96-48bc-93d0-63be9b29d6e6",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "PENINSULA_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "137 Jacksons Rd, MorXXnington VIC 3931, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Mornington VIC 3931, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 76,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-38.2277083": 145.0603633
+    },
+    "SUGGESTED PLACE ID": "ChIJ1SHQ67re1WoRAEcuRnhWBBw",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "0ef8af92-3f7f-4fef-9f7e-08a47cb4f703",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "SORRENTO_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "112 Hotham Rd, Sorrento VIC 3934, Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "112 Hotham Rd, Sorrento VIC 3943, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 98,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-38.3349449": 144.7326737
+    },
+    "SUGGESTED PLACE ID": "ChIJx_I8Spo11GoR7QQRdGVDD5Y",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "112 Hotham Rd, Sorrento",
+        "address_line_2": "VIC 3943, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 112  Hotham Road",
+        "suburb": "Sorrento",
+        "city": "Shire of Mornington Peninsula",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3943"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "112",
+        "street": "Hotham Road",
+        "suburb": "Sorrento",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3943"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "112",
+        "line2": "Hotham Road",
+        "suburb": "Sorrento",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3943"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "c9277218-1bc8-46e4-83c4-8ede5d6ef8f0",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "THE_AUSTRALIAN_GOLF_CLUB_DOSE_PENINSULA",
+    "ORIGINAL ADDRESS": "282 Nepean Hwy, DromaXna VIC 3901, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "282 Nepean Hwy, Dromana VIC 3936, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 94,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-38.3134479": 145.022894
+    },
+    "SUGGESTED PLACE ID": "EisyODIgTmVwZWFuIEh3eSwgRHJvbWFuYSBWSUMgMzkzNiwgQXVzdHJhbGlhIjESLwoUChIJbTMu1sPE1WoRSAJ6CcS2sl4QmgIqFAoSCWu7gilN39VqEfwCBDgGIJtD",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "282 Nepean Hwy, Dromana",
+        "address_line_2": "VIC 3936, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 282  Nepean Highway",
+        "suburb": "Dromana",
+        "city": "Shire of Mornington Peninsula",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3936"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "282",
+        "street": "Nepean Highway",
+        "suburb": "Dromana",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3936"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "282",
+        "line2": "Nepean Highway",
+        "suburb": "Dromana",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3936"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "c202f007-be95-4ac3-bb2e-57a4fff534c4",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "NORTH_SYDNEY_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "259 Pacific Hwy, North Sydney NSW 2060, Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "259 Pacific Hwy, North Sydney NSW 2060, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 100,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-33.8341029": 151.2050989
+    },
+    "SUGGESTED PLACE ID": "ChIJ2Z4wLuyuEmsRWZiKKPpxVjA",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "259 Pacific Hwy, North",
+        "address_line_2": "Sydney NSW 2060, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 259  Pacific Highway",
+        "suburb": "North Sydney",
+        "city": "North Sydney Council",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2060"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "259",
+        "street": "Pacific Highway",
+        "suburb": "North Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2060"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "259",
+        "line2": "Pacific Highway",
+        "suburb": "North Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "post_code": "2060"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "a3dea803-652c-4390-9c61-51773abb0607",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ROYAL_HOBART_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "40 Sanddy Bay Rd, Sandy Bay TAS 79005, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Sandy Bay TAS 7005, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 76,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-42.9020551": 147.3253086
+    },
+    "SUGGESTED PLACE ID": "ChIJnaLamvZ1bqoRwBfe0E3JAwU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "cac69ead-c6c6-408c-aced-c8614c9c611f",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ROYAL_FREMANTLE_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "271 Carrington St, Fremantle WA 6160, Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "271 Carrington St, Beaconsfield WA 6162, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 84,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-32.0709601": 115.7787547
+    },
+    "SUGGESTED PLACE ID": "EjIyNzEgQ2FycmluZ3RvbiBTdCwgQmVhY29uc2ZpZWxkIFdBIDYxNjIsIEF1c3RyYWxpYSIxEi8KFAoSCWe57mA4ojIqESbRre3Qin64EI8CKhQKEglpcDVLNKIyKhGvhQCBM48t_A",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "271 Carrington St,",
+        "address_line_2": "Beaconsfield WA 6162, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 271  Carrington Street",
+        "suburb": "Beaconsfield",
+        "city": "City of Fremantle",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6162"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "271",
+        "street": "Carrington Street",
+        "suburb": "Beaconsfield",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6162"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "271",
+        "line2": "Carrington Street",
+        "suburb": "Beaconsfield",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6162"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "ec78f40d-341c-45dc-ae71-eeff059f4cf1",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ROYAL_PERTH_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "44 Burt St, Victoria Park WA 6100, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "44 Burt St, North Perth WA 6006, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 80,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-31.92994479999999": 115.8616559
+    },
+    "SUGGESTED PLACE ID": "ChIJE4BvGLe6MioR4DFS354113I",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "44 Burt St, North Perth",
+        "address_line_2": "WA 6006, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 44  Burt Street",
+        "suburb": "North Perth",
+        "city": "City of Vincent",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6006"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "44",
+        "street": "Burt Street",
+        "suburb": "North Perth",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6006"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "44",
+        "line2": "Burt Street",
+        "suburb": "North Perth",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6006"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "6775d1d2-9e71-4a1f-8563-41fc9d7f33d0",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "JOONDALUP_RESORT_GOLF_COURSE",
+    "ORIGINAL ADDRESS": "30 GuildXXerton Rd, Joondalup WA 6027, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Joondalup WA 6027, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 74,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-31.74033249999999": 115.7699821
+    },
+    "SUGGESTED PLACE ID": "ChIJSQKSbWhTzSsRoEffNbXwBAU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "424f94cd-a90e-402e-ab1a-8da4be007797",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "LAKE_KARRINYUP_COUNTRY_CLUB",
+    "ORIGINAL ADDRESS": "400 Karrinyup Rd, Karrinyup WA 6018, Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "400 Karrinyup Rd, Gwelup WA 6018, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 87,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-31.8822959": 115.7871771
+    },
+    "SUGGESTED PLACE ID": "Eis0MDAgS2FycmlueXVwIFJkLCBHd2VsdXAgV0EgNjAxOCwgQXVzdHJhbGlhIjESLwoUChIJ0UL5W-GuMioRlMniK95dbFEQkAMqFAoSCYWveRLjrjIqEWAMnE4uWHyl",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "400 Karrinyup Rd, Gwelup ",
+        "address_line_2": "WA 60"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 400  Karrinyup Road",
+        "suburb": "Gwelup",
+        "city": "City of Stirling",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6018"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "400",
+        "street": "Karrinyup Road",
+        "suburb": "Gwelup",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6018"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "400",
+        "line2": "Karrinyup Road",
+        "suburb": "Gwelup",
+        "state": "Western Australia",
+        "country": "Australia",
+        "post_code": "6018"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "808bf7de-a944-4157-8998-11a078213226",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "THE_NATIONAL_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "115 Cape Schanck Rd, Cape Schanck VIC 3926, Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "115 Cape Schanck Rd, Cape Schanck VIC 3939, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 96,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-38.4683324": 144.8984173
+    },
+    "SUGGESTED PLACE ID": "ChIJtWUtMca21WoRKdR-AnB8NmY",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [53] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 115  Cape Schanck Road",
+        "suburb": "Cape Schanck",
+        "city": "Shire of Mornington Peninsula",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3939"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "115",
+        "street": "Cape Schanck Road",
+        "suburb": "Cape Schanck",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3939"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "115",
+        "line2": "Cape Schanck Road",
+        "suburb": "Cape Schanck",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3939"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "b2320b26-529c-49c3-a1cb-b43c289300ed",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CAPE_SCHANCK_GOLF_COURSE",
+    "ORIGINAL ADDRESS": "130 Cape Schanck Rd, Cape Schanck TAZ 3926, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "130 Cape Schanck Rd, Cape Schanck VIC 3939, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 90,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-38.4692577": 144.8960529
+    },
+    "SUGGESTED PLACE ID": "ChIJOWQvEci21WoROcintd9TodM",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "Invalid PAS CLIENT address: length [53] of single line is bigger than 50",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 130  Cape Schanck Road",
+        "suburb": "Cape Schanck",
+        "city": "Shire of Mornington Peninsula",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3939"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "130",
+        "street": "Cape Schanck Road",
+        "suburb": "Cape Schanck",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3939"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "130",
+        "line2": "Cape Schanck Road",
+        "suburb": "Cape Schanck",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3939"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "25b3c2f1-caec-491c-91fe-03a9b6b7b953",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ST_ANDREWS_BEACH_GOLF_COURSE",
+    "ORIGINAL ADDRESS": "270 St Andrews Beach Rd, St Andrews Beach VIC 3926, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "St Andrews Beach VIC 3941, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 70,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-38.4144794": 144.8237955
+    },
+    "SUGGESTED PLACE ID": "ChIJSZU4iXG11WoRba8n-c4cePQ",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "ed73007e-20f1-46b5-bd70-0748bdc6a451",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "MOONAH_LINKS_GOLF_COURSE",
+    "ORIGINAL ADDRESS": "557 Purves Rd, Rye VIC 3941, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "557 Purves Rd, Main Ridge VIC 3928, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 84,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-38.4008119": 144.9532721
+    },
+    "SUGGESTED PLACE ID": "Ei01NTcgUHVydmVzIFJkLCBNYWluIFJpZGdlIFZJQyAzOTI4LCBBdXN0cmFsaWEiMRIvChQKEglTwJdmccjVahHCkw1DqCScghCtBCoUChIJD3YXwYTI1WoR1GIlv-Tk4xA",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "557 Purves Rd, Main Ridge",
+        "address_line_2": "VIC 3928, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 557  Purves Road",
+        "suburb": "Main Ridge",
+        "city": "Shire of Mornington Peninsula",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3928"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "557",
+        "street": "Purves Road",
+        "suburb": "Main Ridge",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3928"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "557",
+        "line2": "Purves Road",
+        "suburb": "Main Ridge",
+        "state": "Victoria",
+        "country": "Australia",
+        "post_code": "3928"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "db4c4862-cbef-44fe-a08d-e3d61c0e4212",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "CAPE_WICKHAM_GOLF_COURSE",
+    "ORIGINAL ADDRESS": "100 Cape Wickham Rd, Flinders Island TAS 7255, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Flinders Island, Tasmania, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 66,
+    "SIMILARITY LEVEL": "Somewhat similar, with significant differences",
+    "SUGGESTED COORDINATES": {
+        "-39.9836386": 148.052689
+    },
+    "SUGGESTED PLACE ID": "ChIJrWmDb-1qLWsRYK9RtE7JAw8",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "b053d2d2-ce30-44d3-9061-d8468eb14818",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "KING_ISLAND_GOLF_COURSE",
+    "ORIGINAL ADDRESS": "118 Adams Rd, King Island TAS 7256, Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "118 Adams Rd, Loorana TAS 7256, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 85,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-39.901495": 143.951616
+    },
+    "SUGGESTED PLACE ID": "EikxMTggQWRhbXMgUmQsIExvb3JhbmEgVEFTIDcyNTYsIEF1c3RyYWxpYSIwEi4KFAoSCY0D_Peh3oCqESDgbLxNyQMTEHYqFAoSCY0D_Peh3oCqEW-93M9t4q2i",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "118 Adams Rd, Loorana TAS",
+        "address_line_2": "7256, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 118  Adams Road",
+        "suburb": "Loorana",
+        "city": "King Island Council",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7256"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "118",
+        "street": "Adams Road",
+        "suburb": "Loorana",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7256"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "118",
+        "line2": "Adams Road",
+        "suburb": "Loorana",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7256"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "0269c14e-1604-4515-bf77-1ea128bd1e31",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "THE_DUNES_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "154 Flinders Island Rd, King Island NSW 7256, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "New South Wales, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 44,
+    "SIMILARITY LEVEL": "Different",
+    "SUGGESTED COORDINATES": {
+        "-31.2532183": 146.921099
+    },
+    "SUGGESTED PLACE ID": "ChIJDUte93TLDWsRLZ_EIhGvgBc",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "1261365a-a0bb-4b87-be00-b10bcdd60062",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "BARNBOUGLE_DUNES_GOLF_COURSE",
+    "ORIGINAL ADDRESS": "55 The Nack, Bridport TAS 7282, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Bridport TAS 7262, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 79,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-41.0007905": 147.3904041
+    },
+    "SUGGESTED PLACE ID": "ChIJnxyBbc-3eaoR0Ojd0E3JAwQ",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "5268e07f-1c0b-4a5d-ac60-41baeb60dd0b",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "TASMANIA_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "100 Tasman Hwy, New Norfolk TAS 7170, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "100 Tasman Hwy, Sorell TAS 7172, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 85,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-42.7917744": 147.557028
+    },
+    "SUGGESTED PLACE ID": "EioxMDAgVGFzbWFuIEh3eSwgU29yZWxsIFRBUyA3MTcyLCBBdXN0cmFsaWEiMBIuChQKEgnlR1VaoONtqhGgDWq8TckDExBkKhQKEgnLcPbh7Eh3qhEa-oM6fIKICA",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "100 Tasman Hwy, Sorell",
+        "address_line_2": "TAS 7172, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 100  Tasman Highway",
+        "suburb": "Sorell",
+        "city": "Sorell Council",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7172"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "100",
+        "street": "Tasman Highway",
+        "suburb": "Sorell",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7172"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "100",
+        "line2": "Tasman Highway",
+        "suburb": "Sorell",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7172"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "4abf3b52-a269-46d7-be09-c25194f3b390",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ROYAL_HOBART_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "40 Sandy Bay Rd, Sandy Bay TAS 7005, Australia",
+    "VALIDATION RESULT": "Valid",
+    "SUGGESTED ADDRESS": "40 Sandy Bay Rd, Battery Point TAS 7004, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 80,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-42.8885275": 147.3303142
+    },
+    "SUGGESTED PLACE ID": "ChIJO2Fzq4l1bqoRXzSHM21s7WI",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "40 Sandy Bay Rd, Battery ",
+        "address_line_2": "Point"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 40  Sandy Bay Road",
+        "suburb": "Battery Point",
+        "city": "City of Hobart",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7004"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "40",
+        "street": "Sandy Bay Road",
+        "suburb": "Battery Point",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7004"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "40",
+        "line2": "Sandy Bay Road",
+        "suburb": "Battery Point",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7004"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "72c84b55-4878-411b-8115-e3baa6bcec98",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "HOBART_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "108 Tasman Hwy, New Norfolk TAS 7170, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "108 Tasman Hwy, Sorell TAS 7172, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 85,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-42.7917744": 147.557028
+    },
+    "SUGGESTED PLACE ID": "EioxMDggVGFzbWFuIEh3eSwgU29yZWxsIFRBUyA3MTcyLCBBdXN0cmFsaWEiMBIuChQKEgnlR1VaoONtqhGgDWq8TckDExBsKhQKEgnLcPbh7Eh3qhEa-oM6fIKICA",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "108 Tasman Hwy, Sorell",
+        "address_line_2": "TAS 7172, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 108  Tasman Highway",
+        "suburb": "Sorell",
+        "city": "Sorell Council",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7172"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "108",
+        "street": "Tasman Highway",
+        "suburb": "Sorell",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7172"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "108",
+        "line2": "Tasman Highway",
+        "suburb": "Sorell",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7172"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "b1b30c71-dcd2-41db-b7a7-1f41ecaaab1c",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "TASMANIA_GOLF_CLUB_(LAUNCESTON)",
+    "ORIGINAL ADDRESS": "100 Paterson St, Launceston TASS 7250, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "100 Paterson St, Launceston TAS 7250, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 99,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-41.4389367": 147.1333598
+    },
+    "SUGGESTED PLACE ID": "Ei8xMDAgUGF0ZXJzb24gU3QsIExhdW5jZXN0b24gVEFTIDcyNTAsIEF1c3RyYWxpYSIwEi4KFAoSCQ3pDR_ZpnCqES0oFterHsFyEGQqFAoSCU8Ca9PepnCqEQdwXseUj3Wl",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "100 Paterson St,",
+        "address_line_2": "Launceston TAS 7250, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 100  Paterson Street",
+        "suburb": "Launceston",
+        "city": "Launceston City Council",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7250"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "100",
+        "street": "Paterson Street",
+        "suburb": "Launceston",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7250"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "100",
+        "line2": "Paterson Street",
+        "suburb": "Launceston",
+        "state": "Tasmania",
+        "country": "Australia",
+        "post_code": "7250"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "005c6c75-ede2-4631-abdc-1545bb7d864a",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ROYAL_HOBART_GOLF_CLUB_(NEW_TOWN)",
+    "ORIGINAL ADDRESS": "80 Thewent St, New Town TAS 7008, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "New Town TAS 7008, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 79,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-42.8558914": 147.3034898
+    },
+    "SUGGESTED PLACE ID": "ChIJ5Rkn2YZ0bqoRgBbe0E3JAwU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "d2e2ecc2-121b-4e56-a374-b681e8245927",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "THE_GRANGE_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "220 The Grange Rd, The Grange SA 5022, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "220 Grange Rd, Flinders Park SA 5025, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 75,
+    "SIMILARITY LEVEL": "Similar, with some differences",
+    "SUGGESTED COORDINATES": {
+        "-34.9052741": 138.5430232
+    },
+    "SUGGESTED PLACE ID": "ChIJJ65G2OjFsGoRM9pzPi38Ujk",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "220 Grange Rd, Flinders",
+        "address_line_2": "Park SA 5025, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 220  Grange Road",
+        "suburb": "Flinders Park",
+        "city": "City of Charles Sturt",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5025"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "220",
+        "street": "Grange Road",
+        "suburb": "Flinders Park",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5025"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "220",
+        "line2": "Grange Road",
+        "suburb": "Flinders Park",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5025"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "c50ea424-ba4a-4395-bc7e-5b66235ea0c4",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "ROYAL_ADELAIDE_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "Grange Rd, Grange SAt 5022, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Grange Rd, Grange SA 5022, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 99,
+    "SIMILARITY LEVEL": "Identical",
+    "SUGGESTED COORDINATES": {
+        "-34.9071143": 138.4980773
+    },
+    "SUGGESTED PLACE ID": "EiRHcmFuZ2UgUmQsIEdyYW5nZSBTQSA1MDIyLCBBdXN0cmFsaWEiLiosChQKEgkrbUcDyMWwahGZlsdxbtp0IRIUChIJTRzPpWvEsGoRULKOYlQ2AwU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "Grange Rd, Grange SA",
+        "address_line_2": "5022, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " street_number_na  Grange Road",
+        "suburb": "Grange",
+        "city": "City of Charles Sturt",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5022"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "street_number_na",
+        "street": "Grange Road",
+        "suburb": "Grange",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5022"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "street_number_na",
+        "line2": "Grange Road",
+        "suburb": "Grange",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5022"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "84c6729b-9928-423a-8e61-ec61e99caf0f",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "KOOYONGA_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "165 Greenthill Rd, Glenelg SA 5065, Australia",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "165 Greenhill Rd, Adelaide SA 5000, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "False",
+    "SIMILARITY RATIO": 81,
+    "SIMILARITY LEVEL": "Very similar, with only minor differences",
+    "SUGGESTED COORDINATES": {
+        "-34.9408068": 138.6104467
+    },
+    "SUGGESTED PLACE ID": "Ei0xNjUgR3JlZW5oaWxsIFJkLCBBZGVsYWlkZSBTQSA1MDAwLCBBdXN0cmFsaWEiMRIvChQKEglj09k66M6wahGRpW0oe2joFRClASoUChIJ01vHCwzPsGoRXUfTU_xOxBs",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": {
+        "address_line_1": "165 Greenhill Rd,",
+        "address_line_2": "Adelaide SA 5000, Australia"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_SF": {
+        "street": " 165  Greenhill Road",
+        "suburb": "Adelaide",
+        "city": "City of Unley",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5000"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": {
+        "street number": "165",
+        "street": "Greenhill Road",
+        "suburb": "Adelaide",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5000"
+    },
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": {
+        "line1": "165",
+        "line2": "Greenhill Road",
+        "suburb": "Adelaide",
+        "state": "South Australia",
+        "country": "Australia",
+        "post_code": "5000"
+    },
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "3b206fdc-ca16-491e-81e4-6277bc8b1a03",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
+{
+    "KEY": "GLENELG_GOLF_CLUB",
+    "ORIGINAL ADDRESS": "123 Glexnelg Beach Rd, Glenel",
+    "VALIDATION RESULT": "Invalid",
+    "SUGGESTED ADDRESS": "Glenelg SA 5045, Australia",
+    "INVALID STREET NUMBER/ADDRESS": "True",
+    "SIMILARITY RATIO": 45,
+    "SIMILARITY LEVEL": "Different",
+    "SUGGESTED COORDINATES": {
+        "-34.980383": 138.5131191
+    },
+    "SUGGESTED PLACE ID": "ChIJGzfRCFTFsGoRULGOYlQ2AwU",
+    "SUGGESTED DPID": "TBD",
+    "CONVERTED_BACK_TO_ORIGINAL_SYD_PAS_SPLIT": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_SF": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_CMDM": "invalid_street_address",
+    "CONVERTED_BACK_TO_ORIGINAL_MINERVA": "invalid_street_address",
+    "COLUMN NAME KEY": [
+        "KEY"
+    ],
+    "COLUMN NAME VALUE": [
+        "key"
+    ],
+    "GUID": "b027acc0-5c18-4554-8dc7-ca7f95174ff7",
+    "NAMESPACE": "myserver.address.sample.golf",
+    "SOURCE SYSTEM": "pas",
+    "SOURCE DATA": "data/golf_cc_address.csv",
+    "SOURCE METADATA": "metadata/golf_cc_address.json",
+    "INSTANT MODE": "False",
+    "API SERVICE": "googlemaps",
+    "NOTE": "None"
+},
